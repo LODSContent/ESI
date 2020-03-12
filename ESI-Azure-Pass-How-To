@@ -1,0 +1,63 @@
+# Creating a Microsoft Azure Pass Subscription
+
+Creating an Azure Pass subscription is a two step process.
+
+1. Redeem your Azure Pass Promo Code  
+1. Activate your subscription
+
+## Step 1: Redeeming a Microsoft Azure Pass Promo Code:
+
+1. [] Open a browser and navigate to: @[www.microsoftazurepass.com][azure-pass]{powershell}
+
+    > [!KNOWLEDGE] It is recommended you close all browsers and open a new In-Private Browser session. Other log-ins can persist and cause errors during the activation step.
+
+1. [] Click the start button to get started.
+	
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/1.jpg)	
+
+1. [] Enter your account login information and select “Sign In”.
+
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/2.jpg)
+	
+1. []Click “Confirm” if the correct email address is listed.
+
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/3.jpg)
+	
+1. [] Enter your promo code +++@lab.CloudCredential(PromoCode).PromoCode+++ in the Promo code box and click “Claim Promo Code”.
+
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/4.jpg)
+	
+1. [] It may take up to 5 minutes to process the redemption.
+
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/5.jpg)
+
+1. [] Click on “Activate” to start setting up your Azure subscription.
+
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/6.jpg)
+	
+## Step 2: Activate your subscription:
+
+1. []Enter your account information and click “Next”.
+
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/7.jpg)
+	
+1. [] Enter your phone number and click “Next”.
+
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/8.jpg)
+	
+1. [] It may take a few minutes to process the request.
+
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/9.jpg)
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/10.jpg)
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/11.jpg)
+	
+1. []Your subscription is ready, click “Get started” to use Azure services.
+	
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/12.jpg)
+    
+Click **Next >** below to continue.
+
+[azure-pass]:
+```
+Start-Process 'www.microsoftazurepass.com'
+```
