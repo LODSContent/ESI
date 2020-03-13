@@ -1,0 +1,49 @@
+### Lab Setup
+
+Before you begin
+
+1. [] On @lab.VirtualMachine(SEA-DEV).SelectLink click @lab.CtrlAltDelete to activate the Ctrl + Alt + Delete sequence and bring up the logon page.
+
+    >[!KNOWLEDGE] Any links like the one above will send Ctrl+Alt+Delete to the selected machine. This can also be done the **Commands** menu (lightning bolt) in the upper-left hand corner of the screen.
+
+1. [] Sign in as +++@lab.VirtualMachine(SEA-DEV).Username+++ with the password +++@lab.VirtualMachine(SEA-DEV).Password+++.
+
+1. [] Open the **Edge** browser, and go to +++https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e5-business-software?activetab=pivot%3aoverviewtab+++.
+
+1. [] Click **Free Trial** found below **Contact sales**.
+
+1. [] Under **Let's set up your account**, enter a valid email address.
+
+	>[!alert] It is recommended that you use a generic email account and not your personal email.  You can create a free live, outlook, or hotmail account to use here but be certain to take note of your credentials. 
+
+1. [] Under **Tell Us About Yourself** enter the following information:
+
+	- **First Name**: A name of your choice.
+	- **Last Name**: A name of your choice. 
+	- **Business Phone Number**:  A valid phone number. 
+	- **Company Name**: A name of your choice; example: **+++Adatum+++**. 
+	- **Your Company Size**:  10-24. 
+
+1. [] Under **Prove You're Not a Robot** enter a valid phone number for verification.  
+
+1. [] With the received code from Microsoft, enter it into the prompt and click **Submit**. 
+
+1. [] Under **Create Your Business Identity**, create a valid business domain.  For example, adatum(today'sdate)(yourinitials) and then click **Next**. 
+
+1. []  When prompted to create a username and password, enter +++admin+++ as the username and a valid password. 
+
+	>[!alert] Be certain to record this information. 
+
+1. [] Click **Sign up**. 
+
+    >[!knowledge] If you were provided an Azure pass, you will want to redeem the pass against this created tenant; if you did not receive a pass (self-study), you will want to go to +++https://azure.microsoft.com/en-us/free/search/?&ef_id=CjwKCAiA0svwBRBhEiwAHqKjFj9VeHLnkrBeLNevorqgn9l5rYZGOMi17fX7EVZFK0VjYfMU07Xa7BoCEDEQAvD_BwE:G:s&OCID=AID2000128_SEM_EJlPLUFH&MarinID=EJlPLUFH_287547165292_azure%20trial_e_c__44568976057_kwd-296465860499&lnkd=Google_Azure_Brand&gclid=CjwKCAiA0svwBRBhEiwAHqKjFj9VeHLnkrBeLNevorqgn9l5rYZGOMi17fX7EVZFK0VjYfMU07Xa7BoCEDEQAvD_BwE&gclid=CjwKCAiA0svwBRBhEiwAHqKjFj9VeHLnkrBeLNevorqgn9l5rYZGOMi17fX7EVZFK0VjYfMU07Xa7BoCEDEQAvD_BwE+++ and click **Start Free**, using the above created tenant.  
+
+1. [] Download the latest labfiles from the github repository, click: @[Download lab files][DownloadFromGit]{powershell}
+
+    >[!note] This will copy the latest lab files from Github and configure the directories as needed for the remainder of the lab exercises. You will not see any output on screen. If you do not see the **LabFiles** folder on your **Desktop** (after clicking Download), right click the **Desktop** and then select **Refresh**. 
+
+[DownloadFromGit]:
+
+```
+git clone "https://github.com/MicrosoftLearning/AZ-500-Azure-Security.git" "C:\AZ-500"; Copy-Item "C:\AZ-500\Allfiles\Labs" -recurse -Destination "C:\Users\Admin\Desktop"; Rename-Item "C:\Users\Admin\Desktop\Labs" "C:\Users\Admin\Desktop\Labfiles"
+```
