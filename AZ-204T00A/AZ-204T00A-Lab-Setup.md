@@ -12,13 +12,6 @@ Log on to @lab.VirtualMachine(AZ-204T00A-SEA-DEV).SelectLink by pressing @lab.Ct
 
 ## Download the lab files
 
-1. [] @[Download lab files to F: Drive][DownloadFromGit]{powershell}
->This will copy the latest lab files from Github. You will not see any output on screen.
+@lab.Activity(DownloadFromGit)
 
-[DownloadFromGit]:
-
-```
-start-job -name gitClone -ScriptBlock {git clone "https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure.git" 'C:\Users\Admin\AppData\Roaming\temp\'}
-wait-job -name gitClone
-move-item 'C:\Users\Admin\AppData\Roaming\temp\Allfiles' 'f:\' -force
-```
+>This will copy the latest lab files from Github. You should see it return with a 'Success!' message.
