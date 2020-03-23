@@ -1,0 +1,10 @@
+# Download and Prepare Lab Files
+
+1. [] @[Download lab files to C: Drive][DownloadFromGit]{powershell}
+
+    >This will copy the latest lab files from Github. You will not see any output on screen.
+
+[DownloadFromGit]:
+```
+git clone "https://github.com/MicrosoftLearning/DP100" "C:\LabFiles"
+```
