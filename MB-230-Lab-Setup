@@ -1,0 +1,46 @@
+## Before you start
+
+### Sign in to the lab virtual machine
+
+Log on to @lab.VirtualMachine(MB-230).SelectLink by pressing @lab.CtrlAltDelete and typing in the following credentials:
+    
+**Username**: +++@lab.VirtualMachine(MB-230T01A).Username+++
+    
+**Password**: +++@lab.VirtualMachine(MB-230T01A).Password+++
+
+> [!KNOWLEDGE]**HINT**: You can click green text with the +++_+++ symbol next to it and it will auto-type into the VM.
+
+##Credentials
+
+Use the following Dynamics 365 Credentials for the lab:
+
+**Username**: +++@lab.CloudCredential(172).Username+++  
+**Password**: +++@lab.CloudCredential(172).Password+++  
+**Tenant**: +++@lab.CloudCredential(172).TenantName+++  
+
+> [!KNOWLEDGE]You can also find your credentials any time under the **Resources** tab to the right of the VM window.
+
+### Before You Continue:
+> [!ALERT] **ERRATA**: Skip “*Important notice re: tenants – temporary workaround*” steps below entirely, if present.
+
+> [!NOTE] You must complete the following steps in order to access the D365 Admin Center page without error.
+
+1. [] Browse to: @[https://port.crm3.dynamics.com/G/Setup/Index.aspx][LaunchD365TrialSite]{powershell}
+
+1. [] Sign in using your provided D365 Credentials:
+   
+   **Username**: +++@lab.CloudCredential(172).Username+++
+
+   **Password**: +++@lab.CloudCredential(172).Password+++
+
+1. [] Once you are signed in, scroll down and check the **"None of these. Don't customize my organization."** checkbox.
+
+1. [] Click the '**Complete Setup**' button.
+
+1. [] Wait for *Setting up...*  to complete.
+
+
+[LaunchD365TrialSite]:
+```
+git clone "https://github.com/MicrosoftLearning/DP-100-Designing-and-Implementing-a-Data-Science-Solutio" "C:\LabFiles"
+```
