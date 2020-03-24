@@ -14,9 +14,9 @@ Log on to @lab.VirtualMachine(MB-230).SelectLink by pressing @lab.CtrlAltDelete 
 
 Use the following Dynamics 365 Credentials for the lab:
 
-**Username**: +++@lab.CloudCredential(172).Username+++  
-**Password**: +++@lab.CloudCredential(172).Password+++  
-**Tenant**: +++@lab.CloudCredential(172).TenantName+++  
+**Username**: +++@lab.CloudCredential(351).Username+++  
+**Password**: +++@lab.CloudCredential(351).Password+++  
+**Tenant**: +++@lab.CloudCredential(351).TenantName+++  
 
 > [!KNOWLEDGE]You can also find your credentials any time under the **Resources** tab to the right of the VM window.
 
@@ -29,9 +29,9 @@ Use the following Dynamics 365 Credentials for the lab:
 
 1. [] Sign in using your provided D365 Credentials:
    
-   **Username**: +++@lab.CloudCredential(172).Username+++
+   **Username**: +++@lab.CloudCredential(351).Username+++
 
-   **Password**: +++@lab.CloudCredential(172).Password+++
+   **Password**: +++@lab.CloudCredential(351).Password+++
 
 1. [] Once you are signed in, scroll down and check the **"None of these. Don't customize my organization."** checkbox.
 
