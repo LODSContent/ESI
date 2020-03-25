@@ -12,8 +12,6 @@
 
 @lab.Activity(DownloadFromGit)
 
->This will copy the latest lab files from Github. You will see a 'Success!' message above once the process is complete.
-
 >[!note] This will copy the latest lab files from Github and configure the directories as needed for the remainder of the lab exercises. You will see a 'Success!' message above, once the process is complete.
 
 Click **Next** to proceed to the lab.
