@@ -38,12 +38,12 @@ Before you begin
 
     >[!knowledge] If you were provided an Azure pass, you will want to redeem the pass against this created tenant; if you did not receive a pass (self-study), you will want to go to +++https://azure.microsoft.com/en-us/free/search/?&ef_id=CjwKCAiA0svwBRBhEiwAHqKjFj9VeHLnkrBeLNevorqgn9l5rYZGOMi17fX7EVZFK0VjYfMU07Xa7BoCEDEQAvD_BwE:G:s&OCID=AID2000128_SEM_EJlPLUFH&MarinID=EJlPLUFH_287547165292_azure%20trial_e_c__44568976057_kwd-296465860499&lnkd=Google_Azure_Brand&gclid=CjwKCAiA0svwBRBhEiwAHqKjFj9VeHLnkrBeLNevorqgn9l5rYZGOMi17fX7EVZFK0VjYfMU07Xa7BoCEDEQAvD_BwE&gclid=CjwKCAiA0svwBRBhEiwAHqKjFj9VeHLnkrBeLNevorqgn9l5rYZGOMi17fX7EVZFK0VjYfMU07Xa7BoCEDEQAvD_BwE+++ and click **Start Free**, using the above created tenant.  
 
-1. [] Download the latest labfiles from the github repository, click: @[Download lab files][DownloadFromGit]{powershell}
+---
 
-    >[!note] This will copy the latest lab files from Github and configure the directories as needed for the remainder of the lab exercises. You will not see any output on screen. If you do not see the **LabFiles** folder on your **Desktop** (after clicking Download), right click the **Desktop** and then select **Refresh**. 
+## Download the Lab Files
 
-[DownloadFromGit]:
+@lab.Activity(DownloadFromGit)
 
-```
-git clone "https://github.com/MicrosoftLearning/AZ-500-Azure-Security.git" "C:\AZ-500"; Copy-Item "C:\AZ-500\Allfiles\Labs" -recurse -Destination "C:\Users\Admin\Desktop"; Rename-Item "C:\Users\Admin\Desktop\Labs" "C:\Users\Admin\Desktop\Labfiles"
-```
+>[!note] This will copy the latest lab files from Github and configure the directories as needed for the remainder of the lab exercises. You will see a 'Success!' message above, once the process is complete.
+
+Once you have received the 'Sucess!' message, click **Next** to proceed to the lab.
