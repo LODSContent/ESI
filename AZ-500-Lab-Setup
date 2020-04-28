@@ -40,6 +40,14 @@ Before you begin
 
 ---
 
+If you have errors installing PowerShell Modules, enable TLS 1.2 in your administrator PowerShell session and try again:
+
+```PowerShell
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
+```
+
+---
+
 ## Download the Lab Files
 
 @lab.Activity(DownloadFromGit)
