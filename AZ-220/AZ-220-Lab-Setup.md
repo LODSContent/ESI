@@ -19,4 +19,8 @@ Log on to @lab.VirtualMachine(AZ-220-SEA-DEV-Agnostic).SelectLink by pressing @l
 
 > [!ALERT] You will need to have access to an Azure subscription.
 
+### Lab Files
+
+The AZ-220 Allfiles will download to the Desktop shortly after the start of your lab.
+
 Click **Next** to continue.
