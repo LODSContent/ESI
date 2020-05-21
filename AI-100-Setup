@@ -13,6 +13,7 @@ Login to @lab.VirtualMachine(AI-100AWindows10Client).SelectLink by pressing @lab
 ```
 git clone "https://github.com/MicrosoftLearning/AI-100-Design-Implement-Azure-AISol" "C:\Lab_Files"
 ```
+>[!alert]The download may take up to 15 minutes to complete.
 
 ## Sign in to Visual Studio 2019 Community
 
