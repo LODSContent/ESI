@@ -1,0 +1,13 @@
+> Note, there is no lab/lab steps associated with Lab 1. You will begin on Lab 2.
+
+## Before you start
+
+### Sign in to the lab virtual machine
+
+Log on to @lab.VirtualMachine(Windows10Client).SelectLink by pressing @lab.CtrlAltDelete and typing in the following credentials:
+    
+**Username**: +++@lab.VirtualMachine(Windows10Client).Username+++
+    
+**Password**: +++@lab.VirtualMachine(Windows10Client).Password+++
+
+###Continue to the lab by pressing **Next** below.
