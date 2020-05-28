@@ -1,0 +1,6 @@
+## Log In
+1. [] On @lab.VirtualMachine(SEA-Dev).SelectLink click @lab.CtrlAltDelete to activate the Ctrl + Alt + Delete sequence and bring up the logon page.
+
+1. [] Log in with the username +++@lab.VirtualMachine(SEA-Dev).Username+++ and password +++@lab.VirtualMachine(SEA-Dev).Password+++.
+
+Click **Next** to proceed to the lab steps. 
