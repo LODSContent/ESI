@@ -8,36 +8,6 @@ Before you begin
 
 1. [] Sign in as +++@lab.VirtualMachine(SEA-DEV).Username+++ with the password +++@lab.VirtualMachine(SEA-DEV).Password+++.
 
-1. [] Open the **Edge** browser, and go to +++https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e5-business-software?activetab=pivot%3aoverviewtab+++.
-
-1. [] Click **Free Trial** found below **Contact sales**.
-
-1. [] Under **Let's set up your account**, enter a valid email address.
-
-	>[!alert] It is recommended that you use a generic email account and not your personal email.  You can create a free live, outlook, or hotmail account to use here but be certain to take note of your credentials. 
-
-1. [] Under **Tell Us About Yourself** enter the following information:
-
-	- **First Name**: A name of your choice.
-	- **Last Name**: A name of your choice. 
-	- **Business Phone Number**:  A valid phone number. 
-	- **Company Name**: A name of your choice; example: **+++Adatum+++**. 
-	- **Your Company Size**:  10-24. 
-
-1. [] Under **Prove You're Not a Robot** enter a valid phone number for verification.  
-
-1. [] With the received code from Microsoft, enter it into the prompt and click **Submit**. 
-
-1. [] Under **Create Your Business Identity**, create a valid business domain.  For example, adatum(today'sdate)(yourinitials) and then click **Next**. 
-
-1. []  When prompted to create a username and password, enter +++admin+++ as the username and a valid password. 
-
-	>[!alert] Be certain to record this information. 
-
-1. [] Click **Sign up**. 
-
-    >[!knowledge] If you were provided an Azure pass, you will want to redeem the pass against this created tenant; if you did not receive a pass (self-study), you will want to go to +++https://azure.microsoft.com/en-us/free/search/?&ef_id=CjwKCAiA0svwBRBhEiwAHqKjFj9VeHLnkrBeLNevorqgn9l5rYZGOMi17fX7EVZFK0VjYfMU07Xa7BoCEDEQAvD_BwE:G:s&OCID=AID2000128_SEM_EJlPLUFH&MarinID=EJlPLUFH_287547165292_azure%20trial_e_c__44568976057_kwd-296465860499&lnkd=Google_Azure_Brand&gclid=CjwKCAiA0svwBRBhEiwAHqKjFj9VeHLnkrBeLNevorqgn9l5rYZGOMi17fX7EVZFK0VjYfMU07Xa7BoCEDEQAvD_BwE&gclid=CjwKCAiA0svwBRBhEiwAHqKjFj9VeHLnkrBeLNevorqgn9l5rYZGOMi17fX7EVZFK0VjYfMU07Xa7BoCEDEQAvD_BwE+++ and click **Start Free**, using the above created tenant.  
-
 ---
 
 If you have errors installing PowerShell Modules, enable TLS 1.2 in your administrator PowerShell session and try again:
