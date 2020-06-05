@@ -2,11 +2,11 @@
 
 ### Sign in to the lab virtual machine
 
-Log on to @lab.VirtualMachine(AZ-204T00A-SEA-DEV).SelectLink by pressing @lab.CtrlAltDelete and typing in the following credentials:
+Log on to @lab.VirtualMachine(SEA-DEV).SelectLink by pressing @lab.CtrlAltDelete and typing in the following credentials:
     
-**Username**: +++@lab.VirtualMachine(AZ-204T00A-SEA-DEV).Username+++
+**Username**: +++@lab.VirtualMachine(SEA-DEV).Username+++
     
-**Password**: +++@lab.VirtualMachine(AZ-204T00A-SEA-DEV).Password+++
+**Password**: +++@lab.VirtualMachine(SEA-DEV).Password+++
 
 ---
 
