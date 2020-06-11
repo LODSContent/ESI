@@ -1,0 +1,26 @@
+# 实验室 01：使用 Azure 开始'
+##   模块 1：物联网和 Azure 物联网服务简介
+
+>[!警告]###警告——为 UI 的更改做好准备 
+> 
+>鉴于 Microsoft Azure 的动态特性，在培训内容编制后，用户界面 (UI) 可能会有所更改，从而出现与本实验室手册中的实验室使用说明不匹配的情况。 
+> 
+>一旦发现任何更改，Microsoft 学习团队会立即更新培训课程。但是，鉴于云更新的动态特性，在培训内容更新之前可能会出现 UI 更改的情况。如果出现这种情况，您必须适应这些变化，并根据需要在实验室中用它完成工作。 
+
+### 登录到实验室虚拟机
+
+通过按下 @lab.CtrlAltDelete 和键入以下认证信息，登录到 @lab.VirtualMachine(AZ-220-SEA-DEV-Agnostic).SelectLink：
+    
+**Username**：+++@lab.VirtualMachine(AZ-220-SEA-DEV-Agnostic).Username+++
+    
+**Password**：+++@lab.VirtualMachine(AZ-220-SEA-DEV-Agnostic).Password+++
+
+> [!提示] 您可以单击旁边带 +++_+++ 符号的绿色文本，它将自动输入到虚拟机 (VM) 中。
+
+> [!警告] 您需要有访问 Azure 订阅的权限。
+
+### 实验室文件
+
+实验室开始后不久，AZ-220 的所有文件将下载至桌面。
+
+单击 **Next** 以继续。
