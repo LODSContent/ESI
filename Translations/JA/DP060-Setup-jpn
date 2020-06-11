@@ -1,0 +1,13 @@
+> Lab 1に関係するラボ/ラボ手順はありません。Lab 2で開始します。
+
+## はじめに
+
+### ラボ仮想マシンにサインインします
+
+@lab.CtrlAltDeleteを押し、以下のクレデンシャルを入力して@lab.VirtualMachine(Windows10Client).SelectLinkにログオンします：
+    
+**Username**: +++@lab.VirtualMachine(Windows10Client).Username+++
+    
+**Password**: +++@lab.VirtualMachine(Windows10Client).Password+++
+
+###以下の **Next** を押してラボに進みます。
