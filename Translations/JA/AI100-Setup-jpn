@@ -1,0 +1,35 @@
+#はじめに
+
+##仮想マシン
+@lab.VirtualMachine(AI-100AWindows10Client).SelectLinkに、@lab.CtrlAltDeleteを押し、+++@lab.VirtualMachine(AI-100AWindows10Client).Username+++としてパスワード+++@lab.VirtualMachine(AI-100AWindows10Client).Password+++を使ってログインしてログインします。
+
+## ラボファイル(Lab Files)をダウンロードします
+
+1. [] 以下のコマンドをクリックしてGitHubにホストされている **AI-100 Lab Files** を**C:\Lab_Files** ディレクトリに自動的にクローンします：
+
+    @[Githubレポジトリをクローンします][auto_repo_clone]{可視のPowerShell}
+
+[auto_repo_clone]:    
+```
+git clone "https://github.com/MicrosoftLearning/AI-100JP-Design-Implement-Azure-AISol" "C:\Lab_Files"
+```
+>[!Alert] ダウンロードが完了するまで最大 15 分かかることがあります。
+
+## Visual Studio 2019 Communityにサインインします。
+
+1. [] デスクトップ上で、**Visual Studio 2019** をダブルクリックします。
+
+1. [] **Visual Studio** *Welcome!*ウィンドウで、**Sign in** をクリックします。
+
+1. [] **Sign in to your account** ウィンドウでMicrosoftアカウントにサインインします。
+
+1. [] **Visual Studio 2019** がロードされたら、**Close** または **Exit Visual Studio** のボタンをクリックします。
+
+##ソフトウェア
+セットアップフェーズですが、ユーザーに対し、@lab.VirtualMachine(AI-100AWindows10Client).SelectLinkにインストール済みの以下のソフトウェアのインストールを求めます：
+- Visual Studio 2019 Community
+- Visual Studio Code
+- Bot Framework Emulator(.NET SDK v4)
+- Bot Builder SDK v4 Template(C#用)
+
+###以下の **Next** を押してラボに進みます。
