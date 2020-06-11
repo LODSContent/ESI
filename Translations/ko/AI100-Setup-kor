@@ -1,0 +1,35 @@
+#시작하기 전
+
+##가상머신
+@lab.CtrlAltDelete를 누르고 +++@lab.VirtualMachine(AI-100AWindows10Client).Username+++와 비밀번호 +++@lab.VirtualMachine(AI-100AWindows10Client).Password+++로 로그인하여 @lab.VirtualMachine(AI-100AWindows10Client).SelectLink에 로그인하세요.
+
+## 랩 파일 다운로드
+
+1. [] GitHub에 호스팅된 **AI-100 Lab Files**을 **C:\Lab_Files** 디렉터리에 자동으로 복제하기 위해 다음 명령을 클릭하세요.
+
+    @[Clone Github Repository][auto_repo_clone]{PowerShell visible}
+
+[auto_repo_clone]:    
+```
+git clone "https://github.com/MicrosoftLearning/AI-100ko-Design-Implement-Azure-AISol" "C:\Lab_Files"
+```
+>[!경고]다운로드가 완료되려면 최대 15 분이 걸릴 수 있습니다.
+
+## Visual Studio 2019 Community에 로그인하세요.
+
+1. [] 바탕화면에서 **Visual Studio 2019**를 더블클릭하세요.
+
+1. [] **Visual Studio** *Welcome!* 창에서 **Sign in**을 클릭하세요.
+
+1. [] **Sign in to your account** 창에서 귀하의 Microsoft 계정으로 로그인하세요.
+
+1. [] **Visual Studio 2019**가 로드되면,**Close** 또는 **Exit Visual Studio** 버튼을 클릭하세요.
+
+##소프트웨어
+설정 단계에서는 사용자가 @lab.VirtualMachine(AI-100AWindows10Client).SelectLink에 이미 설치된 다음과 같은 소프트웨어를 설치해야 합니다.
+- Visual Studio 2019 Community
+- Visual Studio Code
+- Bot Framework Emulator(.NET SDK v4)
+- Bot Builder SDK v4 Template for C#
+
+###아래의 **Next**를 눌러 랩으로 진행하세요.
