@@ -1,0 +1,20 @@
+# 랩 설정
+
+1. [] @lab.VirtualMachine(Windows10).SelectLink에서 Ctrl + Alt + Delete 시퀀스를 활성화하고 로그인 페이지를 불러오기 위해 @lab.CtrlAltDelete를 클릭하세요.
+
+    >[!정보] 위와 같은 링크는 모두 선택된 머신에 Ctrl+Alt+Delete를 보냅니다. 화면 상단 왼쪽의 **Commands** 메뉴(번개 표시)에서도 수행할 수 있습니다.
+
+1. [] +++@lab.VirtualMachine(Windows10).Username+++와(과) 비밀번호 +++@lab.VirtualMachine(Windows10).Password+++로 로그인하세요.
+
+1. [] @[Download lab files][DownloadFromGit]{powershell}
+
+
+[DownloadFromGit]:
+
+```
+git clone "https://github.com/MicrosoftLearning/DP-200ko-Implementing-an-Azure-Data-Solution.git" "E:\Allfiles" 
+```
+
+> [!정보] 이 기능은 최신 랩 파일을 GitHub에서 복사하고 나머지 랩 실습의 필요에 따라 디렉터리를 설정합니다. 화면에 아무것도 출력되지 않습니다.
+
+>[!주의] 파일이 E: 드라이브에 완전히 다운로드될 수 있도록 2-3분 정도 기다려주세요. 3분 뒤에도 파일이 보이지 않는다면, **Allfiles** 폴더에서 우클릭한 후 **Refresh**를 선택하세요. 
