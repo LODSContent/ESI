@@ -1,0 +1,36 @@
+### ラボのセットアップ
+
+
+1. [] @lab.VirtualMachine(SEA-DEV).SelectLinkにて、@lab.CtrlAltDeleteをクリックし、Ctrl + Alt + Deleteシーケンスを有効にしてログオンページを表示させます。
+
+1. [] +++@lab.VirtualMachine(SEA-DEV).Username+++として、パスワード+++@lab.VirtualMachine(SEA-DEV).Password+++を使ってサインインします。
+
+1. [] @[ラボファイルを以下にダウンロードします：E:Drive][DownloadFromGit]{powershell}
+
+    > これは直近のラボファイルをGithubからコピーし、ラボ訓練の残りにあたって必要なディレクトリを構成します。画面にはアウトプットが表示されません。
+
+1. [] File Explorerを使用してE: driveにナビゲートします。"AZ-301" フォルダーが存在することを確認します。これは前のステップにより作成されました。 
+
+1. [] Windows 10 デスクトップの一番下にあるタスクバー(Taskbar)を確認します。タスクバー(Taskbar)にはラボで使用する共通するアプリケーションのアイコンが含まれています：
+
+    - Microsoft Edge
+
+    - File Explorer
+
+    - [Visual Studio Code](https://code.visualstudio.com/)
+
+    - [Microsoft Azure Storage Explorer](https://azure.microsoft.com/features/storage-explorer/)
+
+    - UbuntuのBash(Windows)
+
+    - Windows PowerShell
+
+    >[!KNOWLEDGE] また、**Start Menu** にこれらのアプリケーションへのショートカットが用意されています。
+
+[DownloadFromGit]:
+
+```
+git clone "https://github.com/MicrosoftLearning/AZ-301-MicrosoftAzureArchitectDesign" "E:\AZ-301"
+New-Item -Path "E:\"-Name "AZ-301\allfiles\AZ-301T01\Module_01\LabFiles\Starter" -ItemType Directory
+New-Item -Path "E:\"-Name "AZ-301\allfiles\AZ-301T01\Module_02\LabFiles\Starter" -ItemType Directory
+```
