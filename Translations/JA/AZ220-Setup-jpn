@@ -1,0 +1,26 @@
+# Lab 01:Azure’の開始
+## モジュール1：IoTおよびAzure IoT Servicesの導入部
+
+>[!alert]###警告 -- UI変更に対応してください 
+> 
+>Microsoft Azureのダイナミックな性質を理由に、このラボマニュアルで示されているラボ説明に合致しない、本トレーニングコンテンツの開発以降に実施されるユーザーインターフェース(UI)変更に遭遇することがあります。 
+> 
+>Microsoft Learningチームは、変更が確定となった時点で速やかに本トレーニングコースをアップデートします。しかしながら、クラウドアップデートのダイナミックな性質を理由に、ホントレーニングコンテンツがアップデートされる前に、UI変更に遭遇する場合があるでしょう。実際そうなった場合、変更を確認し、必要に応じてラボ内で適宜対応してください。 
+
+### ラボ仮想マシンにサインインします
+
+@lab.CtrlAltDeleteを押し、以下のクレデンシャルを入力して@lab.VirtualMachine(AZ-220-SEA-DEV-Agnostic).SelectLinkにログオンします：
+    
+**Username**: +++@lab.VirtualMachine(AZ-220-SEA-DEV-Agnostic).Username+++
+    
+**Password**: +++@lab.VirtualMachine(AZ-220-SEA-DEV-Agnostic).Password+++
+
+> [!hint] 緑色のテキストおよび隣の+++_+++記号をクリックすると、VMに自動入力されます。
+
+> [!ALERT] Azureサブスクリプションにアクセスできる必要があります。
+
+### ラボファイル
+
+AZ-220 Allfilesは、ラボ開始後すぐに、デスクトップ(Desktop)にダウンロードされます。
+
+**Next** をクリックして続けます。
