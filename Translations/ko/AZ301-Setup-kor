@@ -1,0 +1,36 @@
+### 랩 설정
+
+
+1. [] @lab.VirtualMachine(SEA-DEV).SelectLink에서 Ctrl + Alt + Delete 시퀀스를 활성화하고 로그인 페이지를 불러오기 위해 @lab.CtrlAltDelete를 클릭하세요.
+
+1. [] +++@lab.VirtualMachine(SEA-DEV).Username+++ 및 비밀번호 +++@lab.VirtualMachine(SEA-DEV).Password+++로 로그인하세요.
+
+1. [] @[Download lab files to E: Drive][DownloadFromGit]{powershell}
+
+    >이 기능은 최신 랩 파일을 GitHub에서 복사하고 나머지 랩 실습의 필요에 따라 디렉터리를 설정합니다. 화면에 아무것도 출력되지 않습니다.
+
+1. [] 파일 탐색기를 이용해 E: 드라이브로 이동하세요. "AZ-301" 폴더가 있는 것을 확인하세요. 이전 단계에서 생성된 폴더입니다. 
+
+1. [] Windows 10 바탕화면 맨 아래의 작업 표시줄을 확인하세요. 작업 표시줄에 랩에서 사용할 공통 애플리케이션 아이콘이 있습니다.
+
+    - Microsoft Edge
+
+    - 파일 탐색기
+
+    - [Visual Studio Code](https://code.visualstudio.com/)
+
+    - [Microsoft Azure Storage Explorer](https://azure.microsoft.com/features/storage-explorer/)
+
+    - Windows의 Ubuntu Bash
+
+    - Windows PowerShell
+
+    >[!정보] **Start Menu**에서도 이 애플리케이션의 바로가기를 찾을 수 있습니다.
+
+[DownloadFromGit]:
+
+```
+git clone "https://github.com/MicrosoftLearning/AZ-301ko-MicrosoftAzureArchitectDesign" "E:\AZ-301"
+New-Item -Path "E:\" -Name "AZ-301\allfiles\AZ-301T01\Module_01\LabFiles\Starter" -ItemType Directory
+New-Item -Path "E:\" -Name "AZ-301\allfiles\AZ-301T01\Module_02\LabFiles\Starter" -ItemType Directory
+```
