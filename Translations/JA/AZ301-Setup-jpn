@@ -30,7 +30,7 @@
 [DownloadFromGit]:
 
 ```
-git clone "https://github.com/MicrosoftLearning/AZ-301-MicrosoftAzureArchitectDesign" "E:\AZ-301"
+git clone "https://github.com/MicrosoftLearning/AZ-301JA-MicrosoftAzureArchitectDesign" "E:\AZ-301"
 New-Item -Path "E:\"-Name "AZ-301\allfiles\AZ-301T01\Module_01\LabFiles\Starter" -ItemType Directory
 New-Item -Path "E:\"-Name "AZ-301\allfiles\AZ-301T01\Module_02\LabFiles\Starter" -ItemType Directory
 ```
