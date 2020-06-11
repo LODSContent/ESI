@@ -1,0 +1,26 @@
+# 랩 01: Azure' 시작하기
+##   모듈 1: IoT와 Azure IoT 서비스에 도입
+
+>[!경고]###경고 -- UI 변경에 대비하세요 
+> 
+>Microsoft Azure의 동적 특성상, 이 랩 매뉴얼의 랩 설명과 일치하지 않는 교육 콘텐츠의 개발에 따라 사용자 인터페이스(UI) 변동이 있을 수 있습니다. 
+> 
+>Microsoft Learning 팀에서 그러한 변동을 알게 되는 즉시 해당 교육 과정을 업데이트할 것입니다. 그러나 클라우드 업데이트의 동적 특성상, 해당 교육 콘텐츠가 업데이트되기 전 UI 변경을 경험하실 수도 있습니다. 그런 일이 발생할 경우 필요에 따라 이 랩에서 해당 변경에 적응하여 극복하셔야 합니다. 
+
+### 랩 가상머신에 가입하세요
+
+@lab.CtrlAltDelete를 누르고 다음 자격 증명을 입력하여 @lab.VirtualMachine(AZ-220-SEA-DEV-Agnostic).SelectLink에 로그인:
+    
+**Username**: +++@lab.VirtualMachine(AZ-220-SEA-DEV-Agnostic).Username+++
+    
+**Password**: +++@lab.VirtualMachine(AZ-220-SEA-DEV-Agnostic).Password+++
+
+> [!힌트] 초록색 텍스트와 옆의 +++_+++ 기호를 클릭하면 VM에 자동으로 입력됩니다.
+
+> [!경고] Azure 구독 이용 권한이 있어야 합니다.
+
+### 랩 파일
+
+랩을 시작한 직후에 AZ-220 모든 파일이 바탕화면에 다운로드됩니다.
+
+**Next**를 클릭하여 계속합니다.
