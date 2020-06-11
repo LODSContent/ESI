@@ -1,0 +1,19 @@
+## 开始之前
+
+### 登录到实验室虚拟机
+
+通过按下 @lab.CtrlAltDelete 和键入以下认证信息，登录到 @lab.VirtualMachine(AZ-204T00A-SEA-DEV).SelectLink：
+    
+**Username**：+++@lab.VirtualMachine(AZ-204T00A-SEA-DEV).Username+++
+    
+**Password**：+++@lab.VirtualMachine(AZ-204T00A-SEA-DEV).Password+++
+
+---
+
+## 下载实验室文件
+
+@lab.Activity(DownloadFromGit)
+
+>[!请注意] 这将从 GitHub 复制最新的实验室文件，并根据需要为实验室实操的其余部分配置目录。此过程完成后，上方会显示一条“成功！”的消息。
+
+收到“成功！”的消息后，请单击 **Next**，以进入实验室。
