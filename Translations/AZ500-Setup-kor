@@ -1,0 +1,57 @@
+### 랩 설정
+
+시작하기 전
+
+1. [] @lab.VirtualMachine(SEA-DEV).SelectLink에서 Ctrl + Alt + Delete 시퀀스를 활성화하고 로그인 페이지를 불러오기 위해 @lab.CtrlAltDelete를 클릭하세요.
+
+    >[!정보] 위와 같은 링크는 모두 선택된 머신에 Ctrl+Alt+Delete를 보냅니다. 화면 상단 왼쪽의 **Commands** 메뉴(번개 표시)에서도 수행할 수 있습니다.
+
+1. [] +++@lab.VirtualMachine(SEA-DEV).Username+++ 및 비밀번호 +++@lab.VirtualMachine(SEA-DEV).Password+++로 로그인하세요.
+
+1. [] **Edge** 브라우저를 열고, +++https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e5-business-software?activetab=pivot%3aoverviewtab+++로 이동하세요.
+
+1. [] **Contact sales** 아래의 **Free Trial**을 클릭하세요.
+
+1. [] **Let's set up your account**에 유효한 이메일 주소를 입력하세요.
+
+	>[!경고] 개인 이메일이 아닌 일반 이메일을 사용하는 것을 권장합니다.  무료로 live, 아웃룩, 핫메일 계정을 만들어 여기서 이용할 수 있습니다. 하지만 자격증명을 꼭 메모하세요. 
+
+1. [] **Tell Us About Yourself**에 다음 정보를 입력하세요
+
+	- **First Name**: 선택한 이름.
+	- **Last Name**: 선택한 이름. 
+	- **Business Phone Number**:  유효한 전화번호. 
+	- **Company Name**: 선택한 이름. 예: **+++Adatum+++**. 
+	- **Your Company Size**:  10-24. 
+
+1. [] 인증을 위해 **Prove You're Not a Robot**에 유효한 전화번호를 입력하세요.  
+
+1. [] Microsoft에서 받은 코드를 프롬프트에 입력하고 **Submit**을 클릭하세요. 
+
+1. [] **Create Your Business Identity**에 유효한 비즈니스 도메인을 생성하세요.  예를 들어, 데이텀(오늘 날짜)(내 이니셜) 그리고 **Next**을 클릭하세요. 
+
+1. []  사용자 이름과 비밀번호를 생성하라는 메시지가 나타나면, +++admin+++을 사용자 이름과 유효한 비밀번호로 입력하세요. 
+
+	>[!경고] 이 정보를 반드시 기록해놓으세요. 
+
+1. [] **Sign up**을 클릭하세요. 
+
+    >[!정보] Azure Pass를 받으셨다면, 생성된 테넌트와 Pass를 교환하십시오. Pass를 받으신 적이 없다면(독학), 위의 생성된 테넌트를 이용해 +++https://azure.microsoft.com/en-us/free/search/?&ef_id=CjwKCAiA0svwBRBhEiwAHqKjFj9VeHLnkrBeLNevorqgn9l5rYZGOMi17fX7EVZFK0VjYfMU07Xa7BoCEDEQAvD_BwE:G:s&OCID=AID2000128_SEM_EJlPLUFH&MarinID=EJlPLUFH_287547165292_azure%20trial_e_c__44568976057_kwd-296465860499&lnkd=Google_Azure_Brand&gclid=CjwKCAiA0svwBRBhEiwAHqKjFj9VeHLnkrBeLNevorqgn9l5rYZGOMi17fX7EVZFK0VjYfMU07Xa7BoCEDEQAvD_BwE&gclid=CjwKCAiA0svwBRBhEiwAHqKjFj9VeHLnkrBeLNevorqgn9l5rYZGOMi17fX7EVZFK0VjYfMU07Xa7BoCEDEQAvD_BwE+++로 이동해 **Start Free**를 클릭하세요.  
+
+---
+
+PowerShell 모듈 설치 중 에러가 발생하면 관리자 PowerShell 세션에서 TLS 1.2를 활성화하고 다시 시도하십시오.
+
+```PowerShell
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
+```
+
+---
+
+## 랩 파일 다운로드
+
+@lab.Activity(DownloadFromGit)
+
+>[!주의] 이 기능은 최신 랩 파일을 GitHub에서 복사하고 나머지 랩 실습의 필요에 따라 디렉터리를 설정합니다. 프로세스가 완료되면 위에 'Success!’ 메시지가 나타날 것입니다.
+
+‘Success!' 메시지를 받으면 랩으로 진행하기 위해 **Next**를 클릭하세요.
