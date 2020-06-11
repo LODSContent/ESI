@@ -1,0 +1,12 @@
+처음 두 랩 1은 AI-100T01의 기술 요건과 사례 연구입니다.
+
+##가상머신
+@lab.CtrlAltDelete를 누르고 +++@lab.VirtualMachine(DP-201Windows10).Username+++와 비밀번호 +++@lab.VirtualMachine(DP-201Windows10).Password+++로 로그인하여 @lab.VirtualMachine(DP-201Windows10).SelectLink에 로그인하세요.
+
+##랩 파일
+
+이 과정의 랩 파일은 디렉터리의 @lab.VirtualMachine(DP-201Windows10).SelectLink에 있습니다.  
+`E:\LabFiles\`  
+바탕화면에도 바로가기가 있습니다. 
+
+###아래의 **Next**를 눌러 랩으로 진행하세요.
