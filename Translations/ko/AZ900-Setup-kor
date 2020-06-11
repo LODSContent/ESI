@@ -1,0 +1,6 @@
+## 로그인
+1. [] @lab.VirtualMachine(SEA-DEV).SelectLink에서 Ctrl + Alt + Delete 시퀀스를 활성화하고 로그인 페이지를 불러오기 위해 @lab.CtrlAltDelete를 클릭하세요.
+
+1. [] 사용자 이름 +++@lab.VirtualMachine(SEA-Dev).Username+++ 및 비밀번호 +++@lab.VirtualMachine(SEA-DEV).Password+++로 로그인하세요.
+
+랩 단계를 진행하려면 **Next**를 클릭하세요. 
