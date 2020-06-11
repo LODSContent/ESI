@@ -1,0 +1,13 @@
+> 请注意，没有与实验室 1 相关的实验室/实验室步骤。您将从实验室 2 开始。
+
+## 开始之前
+
+### 登录到实验室虚拟机
+
+通过按下 @lab.CtrlAltDelete 和键入以下认证信息，登录到 @lab.VirtualMachine(Windows10Client).SelectLink：
+    
+**Username**：+++@lab.VirtualMachine(Windows10Client).Username+++
+    
+**Password**：+++@lab.VirtualMachine(Windows10Client).Password+++
+
+###通过按下方的 **Next**，进入实验室。
