@@ -1,0 +1,12 @@
+前两个实验室 1 是 AI-100T01 的技术要求和案例研究。
+
+##虚拟机
+通过按下 @lab.CtrlAltDelete 和使用用户名 +++@lab.VirtualMachine(DP-201Windows10).Username+++ 和密码 +++@lab.VirtualMachine(DP-201Windows10).Password+++ 登录，登录到 @lab.VirtualMachine(DP-201Windows10).SelectLink。
+
+##实验室文件
+
+本课程的实验室文件在目录中的 @lab.VirtualMachine(DP-201Windows10).SelectLink 上：  
+`E:\LabFiles\`  
+桌面上也有一个对应的快捷方式。 
+
+###通过按下方的 **Next**，进入实验室。
