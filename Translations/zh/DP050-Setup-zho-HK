@@ -1,0 +1,16 @@
+# 下载和准备实验室文件
+
+1. [] 在 @lab.VirtualMachine(DP050-SQL2008R2).SelectLink 上，单击 @lab.CtrlAltDelete，以激活 Ctrl + Alt + Delete 序列并打开登录页面。
+	>[!请知悉] 任何如上链接都会将 Ctrl+Alt+Delete 发送至选中的机器。也可通过屏幕左上角的 **Commands** 菜单（闪电图标）完成此操作。
+
+
+1. [] 使用用户名 +++@lab.VirtualMachine(DP050-SQL2008R2).Username+++ 和密码 +++@lab.VirtualMachine(DP050-SQL2008R2).Password+++ 登录。
+
+1. [] @[下载实验室文件至 D：驱动][DownloadFromGit]{powershell}
+
+>这将从 Github 复制最新的实验室文件。屏幕上不会显示任何输出。
+
+[DownloadFromGit]:
+```
+git clone "https://github.com/MicrosoftLearning/DP-050zh-Migrating-SQL-Workloads-to-Azure" "D:\DP-050_LabFiles"
+```
