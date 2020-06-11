@@ -1,0 +1,30 @@
+### ラボのセットアップ
+
+1. [] @[ラボファイルを以下にダウンロードします：E:Drive][DownloadFromGit]{powershell}
+
+    > これは直近のラボファイルをGithubからコピーし、ラボ訓練の残りにあたって必要なディレクトリを構成します。画面にはアウトプットが表示されません。
+
+1. [] File Explorerを使用してE: driveにナビゲートします。"AZ-300"フォルダーが存在することを確認します。これは前のステップにより作成されました。 
+
+1. [] 以下の一般的なアプリケーションはラボ環境での使用向けに事前にインストールされています：
+
+    - Microsoft Edge
+
+    - File Explorer
+
+    - [Visual Studio Code](https://code.visualstudio.com/)
+
+    - [Microsoft Azure Storage Explorer](https://azure.microsoft.com/features/storage-explorer/)
+
+    - UbuntuのBash(Windows)
+
+    - Windows PowerShell
+
+    >[!KNOWLEDGE] また、**Start Menu** にこれらのアプリケーションへのショートカットが用意されています。
+
+[DownloadFromGit]:
+
+```
+git clone "https://github.com/MicrosoftLearning/AZ-300JA-MicrosoftAzureArchitectTechnologies" "E:\AZ-300"
+
+```
