@@ -1,7 +1,7 @@
 #はじめに
 
 ##仮想マシン
-@lab.VirtualMachine(AI-100AWindows10Client).SelectLinkに、@lab.CtrlAltDeleteを押し、+++@lab.VirtualMachine(AI-100AWindows10Client).Username+++としてパスワード+++@lab.VirtualMachine(AI-100AWindows10Client).Password+++を使ってログインしてログインします。
+@lab.VirtualMachine(AI-100AWindows10Client).SelectLinkに、@lab.CtrlAltDeleteを押し、+++@lab.VirtualMachine(AI-100AWindows10Client).Username+++ としてパスワード +++@lab.VirtualMachine(AI-100AWindows10Client).Password+++ を使ってログインしてログインします。
 
 ## ラボファイル(Lab Files)をダウンロードします
 
