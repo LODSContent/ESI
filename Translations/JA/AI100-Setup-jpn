@@ -11,7 +11,7 @@
 
 [auto_repo_clone]:    
 ```
-git clone "https://github.com/MicrosoftLearning/AI-100JP-Design-Implement-Azure-AISol" "C:\Lab_Files"
+git clone "https://github.com/MicrosoftLearning/AI-100JA-Design-Implement-Azure-AISol" "C:\Lab_Files"
 ```
 >[!Alert] ダウンロードが完了するまで最大 15 分かかることがあります。
 
