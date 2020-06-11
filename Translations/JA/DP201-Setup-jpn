@@ -1,0 +1,12 @@
+最初の2つのLab 1はAI-100T01の技術要件(Technical Requirements)およびケーススタディ(Case Study)です。
+
+##仮想マシン
+@lab.VirtualMachine(DP-201Windows10).SelectLinkに、@lab.CtrlAltDeleteを押し、+++@lab.VirtualMachine(DP-201Windows10).Username+++としてパスワード+++@lab.VirtualMachine(DP-201Windows10).Password+++を使ってログインしてログインします。
+
+##ラボファイル
+
+本コースのラボファイルは次のディレクトリ内の@lab.VirtualMachine(DP-201Windows10).SelectLinkにあります：  
+`E:\LabFiles\`  
+また、ショートカットがデスクトップ(Dekstop)に作成されています。 
+
+###以下の **Next** を押してラボに進みます。
