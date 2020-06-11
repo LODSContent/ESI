@@ -1,0 +1,16 @@
+# 랩 파일 다운로드 및 준비
+
+1. [] @lab.VirtualMachine(DP050-SQL2008R2).SelectLink에서 Ctrl + Alt + Delete 시퀀스를 활성화하고 로그인 페이지를 불러오기 위해 @lab.CtrlAltDelete를 클릭하세요.
+	>[!정보] 위와 같은 링크는 모두 선택된 머신에 Ctrl+Alt+Delete를 보냅니다. 화면 상단 왼쪽의 **Commands** 메뉴(번개 표시)에서도 수행할 수 있습니다.
+
+
+1. [] +++@lab.VirtualMachine(DP050-SQL2008R2).Username+++ 및 비밀번호 +++@lab.VirtualMachine(DP050-SQL2008R2).Password+++로 로그인하세요.
+
+1. [] @[Download lab files to D: Drive][DownloadFromGit]{powershell}
+
+>이를 통해 Github의 최신 랩 파일을 복사합니다. 화면에 아무것도 출력되지 않습니다.
+
+[DownloadFromGit]:
+```
+git clone "https://github.com/MicrosoftLearning/DP-050ko-Migrating-SQL-Workloads-to-Azure" "D:\DP-050_LabFiles"
+```
