@@ -1,0 +1,19 @@
+## はじめに
+
+### ラボ仮想マシンにサインインします
+
+@lab.CtrlAltDeleteを押し、以下のクレデンシャルを入力して@lab.VirtualMachine(AZ-204T00A-SEA-DEV).SelectLinkにログオンします：
+    
+**Username**: +++@lab.VirtualMachine(AZ-204T00A-SEA-DEV).Username+++
+    
+**Password**: +++@lab.VirtualMachine(AZ-204T00A-SEA-DEV).Password+++
+
+---
+
+## ラボファイル(Lab Files)をダウンロードします
+
+@lab.Activity(DownloadFromGit)
+
+>[!note] これは直近のラボファイルをGitHubからコピーし、ラボ訓練の残りにあたって必要なディレクトリを構成します。プロセスが完了すると、`成功(Success!)`のメッセージが上に表示されます。
+
+`成功(Success!)`のメッセージを受領したら、**Next** をクリックしてラボに進みます。
