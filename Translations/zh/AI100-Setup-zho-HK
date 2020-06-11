@@ -1,0 +1,35 @@
+#开始之前
+
+##虚拟机
+通过按下 @lab.CtrlAltDelete 和使用用户名 +++@lab.VirtualMachine(AI-100AWindows10Client).Username+++ 和密码 +++@lab.VirtualMachine(AI-100AWindows10Client).Password+++ 登录，登录到 @lab.VirtualMachine(AI-100AWindows10Client).SelectLink。
+
+## 下载实验室文件
+
+1. [] 单击以下命令，以将 GitHub 上托管的 **AI-100 Lab Files** 自动复制到 **C:\Lab_Files** 目录中：
+
+    @[复制 Github 资源库][auto_repo_clone]{PowerShell 可见}
+
+[auto_repo_clone]:    
+```
+git clone "https://github.com/MicrosoftLearning/AI-100zh-Design-Implement-Azure-AISol" "C:\Lab_Files"
+```
+>[!警告]完成下载最长可能需要 15 分钟。
+
+## 登录到 Visual Studio 2019 Community
+
+1. [] 在桌面上，双击 **Visual Studio 2019**。
+
+1. [] 在 **Visual Studio** *欢迎！* 窗口，单击 **Sign in**。
+
+1. [] 在 **Sign in to your account** 窗口上登录您的 Microsoft 账户。
+
+1. [] **Visual Studio 2019** 加载后，单击 **Close** 或 **Exit Visual Studio** 按钮。
+
+##软件
+该设置阶段需要用户安装已经安装在 @lab.VirtualMachine(AI-100AWindows10Client).SelectLink 上的以下软件：
+- Visual Studio 2019 Community
+- Visual Studio Code
+- Bot Framework Emulator (.NET SDK v4)
+- 用于 C# 的 Bot Builder SDK v4 Template
+
+###通过按下方的 **Next**，进入实验室。
