@@ -1,0 +1,13 @@
+> 주의, 랩 1과 관련된 랩/랩 단계가 없습니다. 랩 2에서 시작합니다.
+
+## 시작하기 전
+
+### 랩 가상머신에 가입하세요
+
+@lab.CtrlAltDelete를 누르고 다음 자격 증명을 입력하여 @lab.VirtualMachine(Windows10Client).SelectLink에 로그인.
+    
+**Username**: +++@lab.VirtualMachine(Windows10Client).Username+++
+    
+**Password**: +++@lab.VirtualMachine(Windows10Client).Password+++
+
+###아래의 **Next**를 눌러 랩으로 진행하세요.
