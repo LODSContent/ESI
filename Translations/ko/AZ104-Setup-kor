@@ -1,0 +1,17 @@
+### 랩 설정
+
+시작하기 전
+
+1. [] @lab.VirtualMachine(SEA-DEV).SelectLink에서 Ctrl + Alt + Delete 시퀀스를 활성화하고 로그인 페이지를 불러오기 위해 @lab.CtrlAltDelete를 클릭하세요.
+
+    >[!정보] 위와 같은 링크는 모두 선택된 머신에 Ctrl+Alt+Delete를 보냅니다. 화면 상단 왼쪽의 **Commands** 메뉴(번개 표시)에서도 수행할 수 있습니다.
+
+1. [] +++@lab.VirtualMachine(SEA-DEV).Username+++ 및 비밀번호 +++@lab.VirtualMachine(SEA-DEV).Password+++로 로그인하세요.
+
+## 랩 파일 다운로드
+
+@lab.Activity(DownloadFromGit)
+
+>[!주의] 이 기능은 최신 랩 파일을 GitHub에서 복사하고 나머지 랩 실습의 필요에 따라 디렉터리를 설정합니다. 프로세스가 완료되면 위에 'Success!' 메시지가 나타날 것입니다.
+
+'Success!' 메시지를 받으면 랩으로 진행하기 위해 **Next**를 클릭하세요.
