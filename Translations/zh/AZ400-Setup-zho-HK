@@ -1,0 +1,27 @@
+### 实验室设置
+ 1. [] 在 @lab.VirtualMachine(SEA-DEV).SelectLink 上，单击 @lab.CtrlAltDelete，以激活 Ctrl + Alt + Delete 序列并打开登录页面。
+
+>[!请知悉] 任何如上链接都会将 Ctrl+Alt+Delete 发送至选中的机器。也可通过屏幕左上角的 **Commands** 菜单（闪电图标）完成此操作。
+
+2.[] 使用用户名 +++@lab.VirtualMachine(SEA-DEV).Username+++ 和密码 +++@lab.VirtualMachine(SEA-DEV).Password+++ 登录。
+
+3.[] 若要生成 Azure DevOps 演示，请单击以下链接，然后登录：@[https://azuredevopsdemogenerator.azurewebsites.net/][azure-demo-gen]{powershell}
+
+4.[] 若要访问 Azure DevOps 实操实验室，请单击以下链接：@[https://www.azuredevopslabs.com/][azure-dev-ops-labs]{powershell}
+
+5.[] 打开浏览器并导航至：@[https://www.skillpipe.com/#/account/login][skillpipe-login]{powershell}
+
+[azure-demo-gen]:
+```
+开始-流程 'https://azuredevopsdemogenerator.azurewebsites.net/'
+```
+
+[azure-dev-ops-labs]:
+```
+开始-流程 'https://www.azuredevopslabs.com/'
+```
+
+[skillpipe-登录]:
+```
+开始-流程 'https://www.skillpipe.com/#/account/login’
+```
