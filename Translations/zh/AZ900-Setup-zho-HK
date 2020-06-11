@@ -1,0 +1,6 @@
+## 登录
+1. [] 在 @lab.VirtualMachine(SEA-Dev).SelectLink 上，单击 @lab.CtrlAltDelete，以激活 Ctrl + Alt + Delete 序列并打开登录页面。
+
+1. [] 使用用户名 +++@lab.VirtualMachine(SEA-Dev).Username+++ 和密码 +++@lab.VirtualMachine(SEA-Dev).Password+++ 登录。
+
+单击 **Next**，以进入实验室步骤。 
