@@ -1,0 +1,30 @@
+### 实验室设置
+
+1. [] @[下载实验室文件至 E：驱动][DownloadFromGit]{powershell}
+
+    >这将从 Github 复制最新的实验室文件，并根据需要为实验室实操的其余部分配置目录。屏幕上不会显示任何输出。
+
+1. [] 使用文件资源管理器并导航至 E：驱动。确认此时出现一个 “AZ-300”文件夹；该文件夹是从之前的步骤中创建。 
+
+1. [] 预先安装了以下常见程序，以在实验室环境中使用：
+
+    - Microsoft Edge
+
+    - 文件资源管理器
+
+    - [Visual Studio Code](https://code.visualstudio.com/)
+
+    - [Microsoft Azure 存储资源管理器](https://azure.microsoft.com/features/storage-explorer/)
+
+    - Windows Ubuntu 上的 Bash
+
+    - Windows PowerShell
+
+    >[!请知悉] 你还可以在 **Start Menu** 上看到这些应用程序的快捷方式。
+
+[DownloadFromGit]:
+
+```
+git clone "https://github.com/MicrosoftLearning/AZ-300zh-Microsoft-Azure-Architect-Technologies" "E:\AZ-300"
+
+```
