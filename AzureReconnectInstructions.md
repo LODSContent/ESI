@@ -5,6 +5,6 @@
 1. If you see the **Connection Issues?** prompt in the lower right-hand corner of your Lab Interface, click **Retry Connection**.
 1. Otherwise, click the **Monitor icon** in the top left-hand corner of the Lab Interface, then click **Reconnect**, as pictured below.
 
-    !IMAGE[2ge09jhc.jpg](2ge09jhc.jpg)
+    !IMAGE[](https://github.com/LODSContent/ESI/blob/master/Images/MonitorReconnect.jpg?raw=true)
 
     > [!knowledge] You may need to attempt to reconnect multiple times before success.
