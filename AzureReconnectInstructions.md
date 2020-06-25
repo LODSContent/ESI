@@ -8,3 +8,5 @@
     !IMAGE[](https://github.com/LODSContent/ESI/blob/master/Images/MonitorReconnect.jpg?raw=true)
 
     > [!knowledge] You may need to attempt to reconnect multiple times before success.
+
+Once you see the Virtual Machine, click **Next** to proceed to the lab.
