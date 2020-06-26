@@ -20,7 +20,7 @@ git clone "https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrat
 
 >[!Note] Wait for the download to complete.
 
-1. To move the downloaded Lab Files to the AllFiles (F:) drive, run the below command in PowerShell:
+1. To move the downloaded Lab Files to the **AllFiles (F:)** drive, run the below command in PowerShell:
 
 ```PowerShell
 move-item 'C:\Users\Admin\AppData\Roaming\temp\Allfiles' 'F:\' -force
