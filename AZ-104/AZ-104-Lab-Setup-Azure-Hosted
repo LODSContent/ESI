@@ -2,17 +2,17 @@
 
 Before you begin
 
-1. [] On @lab.VirtualMachine(SEA-DEV).SelectLink click @lab.CtrlAltDelete to activate the Ctrl + Alt + Delete sequence and bring up the logon page.
+1. On @lab.VirtualMachine(SEA-DEV).SelectLink click @lab.CtrlAltDelete to activate the Ctrl + Alt + Delete sequence and bring up the logon page.
 
     >[!KNOWLEDGE] Any links like the one above will send Ctrl+Alt+Delete to the selected machine. This can also be done the **Commands** menu (lightning bolt) in the upper-left hand corner of the screen.
 
-1. [] Sign in as +++@lab.VirtualMachine(SEA-DEV).Username+++ with the password +++@lab.VirtualMachine(SEA-DEV).Password+++.
+1. Sign in as +++@lab.VirtualMachine(SEA-DEV).Username+++ with the password +++@lab.VirtualMachine(SEA-DEV).Password+++.
 
 ## Download the Lab Files
 
-1. [] Right-click the **Start** button, and click **Windows Powershell**.
+1. Right-click the **Start** button, and click **Windows Powershell**.
 
-1. [] To download Lab Files from GitHub, run the below command in PowerShell: 
+1. To download Lab Files from GitHub, run the below command in PowerShell: 
 
 ```PowerShell
 git clone "https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator.git" 'C:\Users\Admin\AppData\Roaming\temp\'
@@ -20,7 +20,7 @@ git clone "https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrat
 
 >[!Note] Wait for the download to complete.
 
-1. [] To move the downloaded Lab Files to the AllFiles (F:) drive, run the below command in PowerShell:
+1. To move the downloaded Lab Files to the AllFiles (F:) drive, run the below command in PowerShell:
 
 ```PowerShell
 move-item 'C:\Users\Admin\AppData\Roaming\temp\Allfiles' 'F:\' -force
