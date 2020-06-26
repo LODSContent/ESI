@@ -10,9 +10,9 @@ Before you begin
 
 ## Download the Lab Files
 
-1. [] Right-click the Start button, then click 'Windows Powershell (Administrator).
+1. [] Right-click the Start button, and click 'Windows Powershell (Administrator).
 
-1. [] In order to download Lab Files from GitHub, run the below command in PowerShell: 
+1. [] To download Lab Files from GitHub, run the below command in PowerShell: 
 
 ```
 git clone "https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator.git" 'C:\Users\Admin\AppData\Roaming\temp\'
