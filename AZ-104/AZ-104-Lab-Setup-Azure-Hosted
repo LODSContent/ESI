@@ -10,10 +10,17 @@ Before you begin
 
 ## Download the Lab Files
 
-1. [] In order to download and configure the Lab Files from GitHub, run the below commands in PowerShell: 
+1. [] Right-click the Start button, then click 'Windows Powershell (Administrator).
+
+1. [] In order to download Lab Files from GitHub, run the below command in PowerShell: 
 
 ```
 git clone "https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator.git" 'C:\Users\Admin\AppData\Roaming\temp\'
+```
+
+1. [] To move the Lab Files to the F:\ drive, run the below command in PowerSHell:
+
+```
 move-item 'C:\Users\Admin\AppData\Roaming\temp\Allfiles' 'F:\' -force
 ```
 
