@@ -4,10 +4,10 @@
 
 ### 登录到实验室虚拟机
 
-通过按下 @lab.CtrlAltDelete 和键入以下认证信息，登录到 @lab.VirtualMachine(Windows10Client).SelectLink：
+通过按下 @lab.CtrlAltDelete 和键入以下认证信息，登录到 @lab.VirtualMachine(SEA-Dev).SelectLink：
     
-**Username**：+++@lab.VirtualMachine(Windows10Client).Username+++
+**Username**：+++@lab.VirtualMachine(SEA-Dev).Username+++
     
-**Password**：+++@lab.VirtualMachine(Windows10Client).Password+++
+**Password**：+++@lab.VirtualMachine(SEA-Dev).Password+++
 
 ###通过按下方的 **Next**，进入实验室。
