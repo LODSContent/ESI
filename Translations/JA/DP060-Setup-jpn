@@ -4,10 +4,10 @@
 
 ### ラボ仮想マシンにサインインします
 
-@lab.CtrlAltDeleteを押し、以下のクレデンシャルを入力して@lab.VirtualMachine(Windows10Client).SelectLinkにログオンします：
+@lab.CtrlAltDeleteを押し、以下のクレデンシャルを入力して@lab.VirtualMachine(SEA-Dev).SelectLinkにログオンします：
     
-**Username**: +++@lab.VirtualMachine(SeaDev).Username+++
+**Username**: +++@lab.VirtualMachine(SEA-Dev).Username+++
     
-**Password**: +++@lab.VirtualMachine(SeaDev).Password+++
+**Password**: +++@lab.VirtualMachine(SEA-Dev).Password+++
 
 ###以下の **Next** を押してラボに進みます。
