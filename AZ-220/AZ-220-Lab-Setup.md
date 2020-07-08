@@ -9,11 +9,11 @@
 
 ### Sign in to the lab virtual machine
 
-Log on to @lab.VirtualMachine(AZ-220-SEA-DEV-Agnostic).SelectLink by pressing @lab.CtrlAltDelete and typing in the following credentials:
+Log on to @lab.VirtualMachine(SEA-Dev).SelectLink by pressing @lab.CtrlAltDelete and typing in the following credentials:
     
-**Username**: +++@lab.VirtualMachine(AZ-220-SEA-DEV-Agnostic).Username+++
+**Username**: +++@lab.VirtualMachine(SEA-Dev).Username+++
     
-**Password**: +++@lab.VirtualMachine(AZ-220-SEA-DEV-Agnostic).Password+++
+**Password**: +++@lab.VirtualMachine(SEA-Dev).Password+++
 
 > [!hint] You can click green text with the +++_+++ symbol next to it and it will auto-type into the VM.
 
