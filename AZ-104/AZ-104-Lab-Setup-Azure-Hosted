@@ -15,7 +15,7 @@ Before you begin
 1. To download Lab Files from GitHub, run the below command in PowerShell: 
 
 ```PowerShell
-git clone "https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator.git" 'C:\Users\Admin\AppData\Roaming\temp\'
+git clone "https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator.git" 'C:\Users\Admin\AppData\Roaming\temp\AZ-104\'
 ```
 
     >[!Note] Wait for the download to complete.
@@ -23,7 +23,7 @@ git clone "https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrat
 1. To move the downloaded Lab Files to the **AllFiles (F:)** drive, run the below command in PowerShell:
 
 ```PowerShell
-move-item 'C:\Users\Admin\AppData\Roaming\temp\Allfiles' 'F:\' -force
+move-item 'C:\Users\Admin\AppData\Roaming\temp\AZ-104\Allfiles' 'F:\' -force
 ```
 
 Once complete, click **Next** to proceed to the lab.
