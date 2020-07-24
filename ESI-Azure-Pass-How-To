@@ -16,45 +16,45 @@ Creating an Azure Pass subscription is a two step process.
 
     > [!KNOWLEDGE] It is recommended you close all browsers and open a new In-Private Browser session. Other log-ins can persist and cause errors during the activation step.
 
-1. [] Click the start button to get started.
+1. Click the start button to get started.
 	
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/1.jpg)	
 
-1. [] Enter your account login information and select “Sign In”.
+1. Enter your account login information and select “Sign In”.
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/2.jpg)
 	
-1. []Click “Confirm” if the correct email address is listed.
+1. Click “Confirm” if the correct email address is listed.
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/3.jpg)
 	
-1. [] Enter your promo code +++@lab.CloudCredential(PromoCode).PromoCode+++ in the Promo code box and click “Claim Promo Code”.
+1. Enter your promo code +++@lab.CloudCredential(PromoCode).PromoCode+++ in the Promo code box and click “Claim Promo Code”.
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/4.jpg)
 	
-1. [] It may take up to 5 minutes to process the redemption.
+1. It may take up to 5 minutes to process the redemption.
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/5.jpg)
 	
 ## Step 2: Activate your subscription:
 
-1. []When the redemption process is completed, it will redirect to the sign up page.
+1. When the redemption process is completed, it will redirect to the sign up page.
 
-1. []Enter your account information and click “Next”.
+1. Enter your account information and click “Next”.
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/6.jpg)
 	
-1. [] Click the agreement check box and click the Sign up button.
+1. Click the agreement check box and click the Sign up button.
 	
-1. [] It may take a few minutes to process the request.
+1. It may take a few minutes to process the request.
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/7.jpg)
 	
-1. []Your subscription is ready.
+1. Your subscription is ready.
 	
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/8.jpg)
     
-1. []You can check the balance of your Azure Pass Credits on @[https://www.microsoftazuresponsorships.com/balance][balance]{powershell}
+1. You can check the balance of your Azure Pass Credits on @[https://www.microsoftazuresponsorships.com/balance][balance]{powershell}
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/9.jpg)
     
