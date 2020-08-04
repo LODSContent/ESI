@@ -1,8 +1,8 @@
 # 创建一个 Microsoft Azure 通行证订阅
 
-> [!请注意] 每个课程都需兑换一次 Azure 通行证如果您已经创建了一个 Azure 通行证订阅，可以通过单击下方的 **Next >**，跳过这一部分以继续。
+> [!NOTE] 每个课程都需兑换一次 Azure 通行证如果您已经创建了一个 Azure 通行证订阅，可以通过单击下方的 **Next >**，跳过这一部分以继续。
 
-> [!请知悉] 使用说明中没有闪电图标 ( ![](https://raw.githubusercontent.com/LODSContent/ESI/master/Images/BoltIcon.png) ) 的链接将试图打开您的本地浏览器，而非实验室。建议您直接在实验室浏览器中键入任何链接。
+> [!KNOWLEDGE] 使用说明中没有闪电图标 ( ![](https://raw.githubusercontent.com/LODSContent/ESI/master/Images/BoltIcon.png) ) 的链接将试图打开您的本地浏览器，而非实验室。建议您直接在实验室浏览器中键入任何链接。
 
 创建 Azure 通行证订阅需要两个步骤。
 
@@ -14,27 +14,27 @@
 
 1. [] 打开浏览器并导航至：@[www.microsoftazurepass.com][azure-pass]{powershell}
 
-    > [!请知悉] 建议您关闭所有浏览器，然后打开一个新的隐私模式浏览器会话。在激活过程中，可能会一直存在其他的登录并导致出错。
+    > [!KNOWLEDGE] 建议您关闭所有浏览器，然后打开一个新的隐私模式浏览器会话。在激活过程中，可能会一直存在其他的登录并导致出错。
 
 1. [] 单击开始按钮以开始。
-	    !图像[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/1.jpg)	
+	    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/1.jpg)	
 
 
 1. [] 输入您的账户登录信息，然后选择“登录”。
 
-    !图像[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/2.jpg)
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/2.jpg)
 	1. []如果列出了正确的邮件地址，请单击“确认”。
 
 
-    !图像[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/3.jpg)
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/3.jpg)
 	1. [] 在优惠代码框中输入您的优惠代码 +++@lab.CloudCredential(PromoCode).PromoCode+++，然后单击“索取优惠代码”。
 
 
-    !图像[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/4.jpg)
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/4.jpg)
 	1. [] 此兑换过程最长可能需要 5 分钟。
 
 
-    !图像[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/5.jpg)
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/5.jpg)
 	## 步骤 2：激活您的订阅：
 
 
@@ -42,21 +42,21 @@
 
 1. []输入您的账户信息，然后单击“下一步”。
 
-    !图像[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/6.jpg)
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/6.jpg)
 	1. [] 单击协议复选框，然后单击注册按钮。
 
 	1. [] 此申请过程可能需要数分钟。
 
 
-    !图像[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/7.jpg)
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/7.jpg)
 	1. []您的订阅已准备就绪。
 
-	    !图像[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/8.jpg)
+	    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/8.jpg)
 
     
 1. []您可以在 @[https://www.microsoftazuresponsorships.com/balance][balance]{powershell} 上查看您的 Azure 通行证积分余额
 
-    !图像[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/9.jpg)
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/9.jpg)
     
 单击下方的 **下一个 >** 以继续。
 
