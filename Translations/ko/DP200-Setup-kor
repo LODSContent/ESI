@@ -6,7 +6,7 @@
 
 1. [] +++@lab.VirtualMachine(Windows10).Username+++와(과) 비밀번호 +++@lab.VirtualMachine(Windows10).Password+++로 로그인하세요.
 
-1. [] @[Download lab files][DownloadFromGit]{powershell}
+1. [] @[랩 파일 다운로드][DownloadFromGit]{powershell}
 
 
 [DownloadFromGit]:
