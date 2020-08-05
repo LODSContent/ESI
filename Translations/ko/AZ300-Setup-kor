@@ -1,6 +1,6 @@
 ### 랩 설정
 
-1. [] @[Download lab files to E: Drive][DownloadFromGit]{powershell}
+1. [] @[실험실 파일을 E로 다운로드: 드라이브][DownloadFromGit]{powershell}
 
     >이 기능은 최신 랩 파일을 GitHub에서 복사하고 나머지 랩 실습의 필요에 따라 디렉터리를 설정합니다. 화면에 아무것도 출력되지 않습니다.
 
@@ -8,19 +8,19 @@
 
 1. [] 다음 공통 애플리케이션은 랩 환경에서 사용하기 위해 사전 설치되었습니다.
 
-    - Microsoft Edge
+    - 마이크로소프트 에지
 
     - 파일 탐색기
 
-    - [Visual Studio Code](https://code.visualstudio.com/)
+    - [비주얼 스튜디오 코드](https://code.visualstudio.com/)
 
-    - [Microsoft Azure Storage Explorer](https://azure.microsoft.com/features/storage-explorer/)
+    - [마이크로소프트 Azure 스토리지 탐색기](https://azure.microsoft.com/features/storage-explorer/)
 
-    - Windows의 Ubuntu Bash
+    - 우분투 배쉬 (윈도우)
 
-    - Windows PowerShell
+    - 윈도우 파워 쉘
 
-    >[!정보] **Start Menu**에서도 이 애플리케이션의 바로가기를 찾을 수 있습니다.
+    >[!정보] **시작 메뉴 **에서도 이 애플리케이션의 바로가기를 찾을 수 있습니다.
 
 [DownloadFromGit]:
 
