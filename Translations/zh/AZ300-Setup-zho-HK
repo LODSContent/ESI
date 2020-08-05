@@ -8,19 +8,19 @@
 
 1. [] 预先安装了以下常见程序，以在实验室环境中使用：
 
-    - Microsoft Edge
+    - 微软边缘
 
     - 文件资源管理器
 
-    - [Visual Studio Code](https://code.visualstudio.com/)
+    - [可视化工作室代码](https://code.visualstudio.com/)
 
-    - [Microsoft Azure 存储资源管理器](https://azure.microsoft.com/features/storage-explorer/)
+    - [微软 Azure 存储资源管理器](https://azure.microsoft.com/features/storage-explorer/)
 
-    - Windows Ubuntu 上的 Bash
+    - 乌本图巴什 （窗口）
 
-    - Windows PowerShell
+    - 视窗电源壳
 
-    >[!请知悉] 你还可以在 **Start Menu** 上看到这些应用程序的快捷方式。
+    >[!请知悉] 你还可以在 **开始菜单** 上看到这些应用程序的快捷方式。
 
 [DownloadFromGit]:
 
