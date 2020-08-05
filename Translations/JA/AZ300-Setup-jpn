@@ -8,19 +8,19 @@
 
 1. [] 以下の一般的なアプリケーションはラボ環境での使用向けに事前にインストールされています：
 
-    - Microsoft Edge
+    - マイクロソフトエッジ
 
-    - File Explorer
+    - ファイル エクスプローラ
 
-    - [Visual Studio Code](https://code.visualstudio.com/)
+    - [ビジュアルスタジオコード](https://code.visualstudio.com/)
 
-    - [Microsoft Azure Storage Explorer](https://azure.microsoft.com/features/storage-explorer/)
+    - [マイクロソフト Azure ストレージ エクスプ ローラー](https://azure.microsoft.com/features/storage-explorer/)
 
-    - UbuntuのBash(Windows)
+    - ウブントゥバッシュ (ウィンドウズ)
 
-    - Windows PowerShell
+    - パワーシェル
 
-    >[!KNOWLEDGE] また、**Start Menu** にこれらのアプリケーションへのショートカットが用意されています。
+    >[!KNOWLEDGE] また、**スタートメニュー ** にこれらのアプリケーションへのショートカットが用意されています。
 
 [DownloadFromGit]:
 
