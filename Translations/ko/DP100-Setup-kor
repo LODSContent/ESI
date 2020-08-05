@@ -1,6 +1,6 @@
 # 랩 파일 다운로드 및 준비
 
-1. [] @[Download lab files to C: Drive][DownloadFromGit]{powershell}
+1. [] @[랩 파일을 다운로드하여 C: Drive][DownloadFromGit]{powershell}
 
     >이를 통해 Github의 최신 랩 파일을 복사합니다. 화면에 아무것도 출력되지 않습니다.
 
