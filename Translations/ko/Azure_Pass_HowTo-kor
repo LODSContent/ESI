@@ -23,15 +23,15 @@ Azure Pass 구독 생성은 2단계 과정입니다.
 1. [] 로그인 정보를 입력하고 “Sign In”을 선택하세요.
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/2.jpg)
-	1. []올바른 이메일 주소가 나열되면 “Confirm”을 클릭하세요.
+	a. []올바른 이메일 주소가 나열되면 “Confirm”을 클릭하세요.
 
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/3.jpg)
-	1. [] 프로모션 코드 +++@lab.CloudCredential(PromoCode).PromoCode+++를 프로모션 코드 박스에 입력하고“Claim Promo Code”를 클릭하세요.
+	b. [] 프로모션 코드 +++@lab.CloudCredential(PromoCode).PromoCode+++를 프로모션 코드 박스에 입력하고“Claim Promo Code”를 클릭하세요.
 
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/4.jpg)
-	1. [] 교환 과정이 최대 5분 정도 걸릴 수 있습니다.
+	c. [] 교환 과정이 최대 5분 정도 걸릴 수 있습니다.
 
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/5.jpg)
@@ -43,13 +43,13 @@ Azure Pass 구독 생성은 2단계 과정입니다.
 1. []계정 정보를 입력하고 “Next”를 클릭하세요.
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/6.jpg)
-	1. [] 동의 체크 박스를 클릭하고 "Sign up" 버튼을 클릭합니다.
+	a. [] 동의 체크 박스를 클릭하고 "Sign up" 버튼을 클릭합니다.
 
-	1. [] 요청 과정이 몇 분 정도 걸릴 수 있습니다.
+	b. [] 요청 과정이 몇 분 정도 걸릴 수 있습니다.
 
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/7.jpg)
-	1. []구독이 준비되었습니다.
+	c. []구독이 준비되었습니다.
 
 	    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/8.jpg)
 
