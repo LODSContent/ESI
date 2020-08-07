@@ -5,7 +5,7 @@
 
 1. [] +++@lab.VirtualMachine(SEA-DEV).Username+++ 및 비밀번호 +++@lab.VirtualMachine(SEA-DEV).Password+++로 로그인하세요.
 
-1. [] @[Download lab files to E: Drive][DownloadFromGit]{powershell}
+1. [] @[랩 파일을 다운로드하여 E: Drive][DownloadFromGit]{powershell}
 
     >이 기능은 최신 랩 파일을 GitHub에서 복사하고 나머지 랩 실습의 필요에 따라 디렉터리를 설정합니다. 화면에 아무것도 출력되지 않습니다.
 
@@ -25,7 +25,7 @@
 
     - Windows PowerShell
 
-    >[!정보] **Start Menu**에서도 이 애플리케이션의 바로가기를 찾을 수 있습니다.
+    >[!정보] **시작 메뉴 **에서도 이 애플리케이션의 바로가기를 찾을 수 있습니다.
 
 [DownloadFromGit]:
 
