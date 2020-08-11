@@ -11,9 +11,9 @@
 
 @lab.CtrlAltDeleteを押し、以下のクレデンシャルを入力して@lab.VirtualMachine(AZ-220-SEA-DEV-Agnostic).SelectLinkにログオンします：
     
-**Username**: +++@lab.VirtualMachine(AZ-220-SEA-DEV-Agnostic).Username+++
+**名**: +++@lab.VirtualMachine(AZ-220-SEA-DEV-Agnostic).Username+++
     
-**Password**: +++@lab.VirtualMachine(AZ-220-SEA-DEV-Agnostic).Password+++
+**パスワード**: +++@lab.VirtualMachine(AZ-220-SEA-DEV-Agnostic).Password+++
 
 > [!hint] 緑色のテキストおよび隣の+++_+++記号をクリックすると、VMに自動入力されます。
 
