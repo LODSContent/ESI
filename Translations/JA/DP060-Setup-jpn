@@ -6,8 +6,8 @@
 
 @lab.CtrlAltDeleteを押し、以下のクレデンシャルを入力して@lab.VirtualMachine(SEA-Dev).SelectLinkにログオンします：
     
-**Username**: +++@lab.VirtualMachine(SEA-Dev).Username+++
+**名**: +++@lab.VirtualMachine(SEA-Dev).Username+++
     
-**Password**: +++@lab.VirtualMachine(SEA-Dev).Password+++
+**パスワード**: +++@lab.VirtualMachine(SEA-Dev).Password+++
 
-###以下の **Next** を押してラボに進みます。
+###以下の **次に** を押してラボに進みます。
