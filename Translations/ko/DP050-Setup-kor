@@ -6,7 +6,7 @@
 
 1. [] +++@lab.VirtualMachine(DP050-SQL2008R2).Username+++ 및 비밀번호 +++@lab.VirtualMachine(DP050-SQL2008R2).Password+++로 로그인하세요.
 
-1. [] @[Download lab files to D: Drive][DownloadFromGit]{powershell}
+1. [] @[D: 드라이브에 랩 파일 다운로드][DownloadFromGit]{powershell}
 
 >이를 통해 Github의 최신 랩 파일을 복사합니다. 화면에 아무것도 출력되지 않습니다.
 
