@@ -1,6 +1,5 @@
 ### Lab Setup
 
-
 1. [] On @lab.VirtualMachine(SEA-DEV).SelectLink click @lab.CtrlAltDelete to activate the Ctrl + Alt + Delete sequence and bring up the logon page.
 
     >[!KNOWLEDGE] Any links like the one above will send Ctrl+Alt+Delete to the selected machine. This can also be done the **Commands** menu (lightning bolt) in the upper-left hand corner of the screen.
@@ -9,12 +8,12 @@
 
 1. [] @[Download lab files][DownloadFromGit]{powershell}
 
-    >[!note] This will copy the latest lab files from Github and configure the directories as needed for the remainder of the lab exercises. You will not see any output on screen. If you do not see the **LabFiles** folder on your **Desktop** (after clicking Download), right click the **Desktop** and then select **Refresh**. 
-
     > [!ALERT] Due to auto-formatting with **Azure Cloud Shell**, it is recommended that you use the type-text feature for the code blocks in **Notepad** first, and then from **Notepad** copy and paste the code into **Azure Cloud Shell**.
 
-[DownloadFromGit]:
+## Download the Lab Files
 
-```
-git clone "https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator.git" "F:\AZ-103"; Copy-Item "F:\AZ-103\Allfiles\Labfiles" -recurse -Destination "C:\Users\Admin\Desktop"
-```
+@lab.Activity(DownloadFromGit)
+
+>[!note] This will copy the latest lab files from GitHub and configure the directories as needed for the remainder of the lab exercises. You will see a 'Success!' message above, once the process is complete.
+
+Once you have received the 'Success!' message, click **Next** to proceed to the lab.
