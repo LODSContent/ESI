@@ -6,8 +6,6 @@
 
 1. [] Sign in as +++@lab.VirtualMachine(SEA-DEV).Username+++ with the password +++@lab.VirtualMachine(SEA-DEV).Password+++.
 
-1. [] @[Download lab files][DownloadFromGit]{powershell}
-
     > [!ALERT] Due to auto-formatting with **Azure Cloud Shell**, it is recommended that you use the type-text feature for the code blocks in **Notepad** first, and then from **Notepad** copy and paste the code into **Azure Cloud Shell**.
 
 ## Download the Lab Files
