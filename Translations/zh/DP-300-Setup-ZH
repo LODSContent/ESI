@@ -2,7 +2,7 @@
 
 在你开始之前
 
-1. []在@lab.VirtualMachine(DP-300LabVM.SelectLink上，单击@lab.CtrlAltDelete以激活Ctrl + Alt + Delete序列，并显示登录页面。
+1. []在@lab.VirtualMachine(DP-300LabVM).SelectLink上，单击@lab.CtrlAltDelete以激活Ctrl + Alt + Delete序列，并显示登录页面。
 
      >[!KNOWLEDGE]上面的任何链接都将Ctrl + Alt + Delete发送到所选计算机。 也可以通过屏幕左上角的“命令”菜单（闪电）完成此操作。
 
