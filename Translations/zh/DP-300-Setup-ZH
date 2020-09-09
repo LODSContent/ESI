@@ -6,7 +6,7 @@
 
      >[!KNOWLEDGE]上面的任何链接都将Ctrl + Alt + Delete发送到所选计算机。 也可以通过屏幕左上角的“命令”菜单（闪电）完成此操作。
 
-1. []以+++@lab.VirtualMachine(DP-300LabVM).Username+++登录，密码为+++@lab.VirtualMachine(DP-300LabVM).Password+++。
+1. []以 +++@lab.VirtualMachine(DP-300LabVM).Username+++ 登录，密码为 +++@lab.VirtualMachine(DP-300LabVM).Password+++。
 
 ##下载实验室文件
 
