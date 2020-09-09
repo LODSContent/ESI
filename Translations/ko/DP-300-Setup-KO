@@ -2,16 +2,16 @@
 
 시작하기 전에
 
-1. [] @ lab.VirtualMachine (DP-300LabVM) .SelectLink에서 @ lab.CtrlAltDelete를 클릭하여 Ctrl + Alt + Delete 시퀀스를 활성화하고 로그온 페이지를 불러옵니다.
+1. [] @lab.VirtualMachine(DP-300LabVM).SelectLink 에서@lab.CtrlAltDelete를 클릭하여 Ctrl + Alt + Delete 시퀀스를 활성화하고 로그온 페이지를 불러옵니다.
 
-     > [! KNOWLEDGE] 위와 같은 링크는 Ctrl + Alt + Delete를 선택한 컴퓨터로 보냅니다. 화면 왼쪽 상단에있는 ** 명령 ** 메뉴 (번개 모양)에서도이 작업을 수행 할 수 있습니다.
+     > [!KNOWLEDGE] 위와 같은 링크는 Ctrl + Alt + Delete를 선택한 컴퓨터로 보냅니다. 화면 왼쪽 상단에있는 ** 명령 ** 메뉴 (번개 모양)에서도이 작업을 수행 할 수 있습니다.
 
-1. [] 비밀번호 +++ @ lab.VirtualMachine (DP-300LabVM) .Password +++를 사용하여 +++ @ lab.VirtualMachine (DP-300LabVM) .Username +++로 로그인합니다.
+1. [] 비밀번호+++@lab.VirtualMachine(DP-300LabVM).Password+++를 사용하여+++@ lab.VirtualMachine(DP-300LabVM).Username+++로 로그인합니다.
 
 ## 랩 파일 다운로드
 
-@ lab.Activity (DownloadFromGit)
+@lab.Activity(DownloadFromGit)
 
-> [! note] 그러면 GitHub에서 최신 실습 파일이 복사되고 나머지 실습에 필요한 디렉터리가 구성됩니다. '성공!'이 표시됩니다. 프로세스가 완료되면 위의 메시지.
+>[!note]그러면 GitHub에서 최신 실습 파일이 복사되고 나머지 실습에 필요한 디렉터리가 구성됩니다. '성공!'이 표시됩니다. 프로세스가 완료되면 위의 메시지.
 
 '성공!'을 받으면 메시지가 나타나면 ** Next **를 클릭하여 실습을 진행합니다.
