@@ -1,0 +1,17 @@
+###实验室设置
+
+在你开始之前
+
+1. []在@lab.VirtualMachine(SEA-DEV).SelectLink上，单击@lab.CtrlAltDelete以激活Ctrl + Alt + Delete序列并显示登录页面。
+
+    > [！KNOWLEDGE]上面的任何链接都会将Ctrl + Alt + Delete发送到所选计算机。也可以通过屏幕左上角的“命令”菜单（闪电）完成此操作。
+
+1. []以+++@lab.VirtualMachine(SEA-Dev).Username+++ 的身份登录，密码为+++@lab.VirtualMachine(SEA-DEV).Password+++。
+
+##下载实验室文件
+
+@lab.Activity(DownloadFromGit)
+
+> [note]这将从GitHub复制最新的实验文件，并在其余实验练习中根据需要配置目录。您会看到“成功！”上面的消息，一旦过程完成。
+
+一旦收到“成功！”消息，单击**下一步**继续练习。
