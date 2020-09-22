@@ -1,0 +1,17 @@
+###ラボのセットアップ
+
+あなたが始める前に
+
+1. [] @lab.VirtualMachine(SEA-Dev).SelectLink で、@lab.CtrlAltDelete をクリックしてCtrl + Alt + Deleteシーケンスをアクティブにし、ログオンページを表示します。
+
+>[!knowledge] 上記のようなリンクは、選択したマシンにCtrl + Alt + Deleteを送信します。これは、画面の左上隅にある[**コマンド**]メニュー（稲妻）でも実行できます。
+
+2. [] +++@lab.VirtualMachine(SEA-Dev).Username+++ としてパスワード +++@lab.VirtualMachine(SEA-Dev).Password+++ でサインインします。
+
+##ラボファイルをダウンロードする
+
+@lab.Activity(DownloadFromGit)
+
+> [!note]これにより、GitHubから最新のラボファイルがコピーされ、残りのラボ演習で必要に応じてディレクトリが構成されます。 「成功」が表示されます。上記のメッセージ、プロセスが完了すると。
+
+「成功！」メッセージが表示されたら、[** Next **]をクリックしてラボに進みます
