@@ -1,10 +1,10 @@
 # ラボのセットアップ
 
-1. [] @lab.VirtualMachine(Windows10).SelectLink にて、@lab.CtrlAltDelete をクリックし、Ctrl + Alt + Deleteシーケンスを有効にしてログオンページを表示させます。
+1. [] @lab.VirtualMachine(SEA-Dev).SelectLink にて、@lab.CtrlAltDelete をクリックし、Ctrl + Alt + Deleteシーケンスを有効にしてログオンページを表示させます。
 
     >[!KNOWLEDGE] 上記のようなリンクはいずれもCtrl+Alt+Deleteを選択されたマシンに送信します。これは、画面の一番左上の **Commands** メニュー(稲妻)を使って行うこともできます。
 
-1. [] +++@lab.VirtualMachine(Windows10).Username+++ として、パスワード +++@lab.VirtualMachine(Windows10).Password+++ を使ってサインインします。
+1. [] +++@lab.VirtualMachine(SEA-Dev).Username+++ として、パスワード +++@lab.VirtualMachine(SEA-Dev).Password+++ を使ってサインインします。
 
 1. [] @[ラボファイルをダウンロードします][DownloadFromGit]{powershell}
 
