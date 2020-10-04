@@ -4,9 +4,9 @@
 
 Log on to @lab.VirtualMachine(SEA-DEV).SelectLink by pressing @lab.CtrlAltDelete and typing in the following credentials:
     
-**Username**: +++@lab.VirtualMachine(SEA-DEV).Username+++
+**Username**: +++@lab.VirtualMachine(AZ-204T00A-SEA-DEV).Username+++
     
-**Password**: +++@lab.VirtualMachine(SEA-DEV).Password+++
+**Password**: +++@lab.VirtualMachine(AZ-204T00A-SEA-DEV).Password+++
 
 ---
 
