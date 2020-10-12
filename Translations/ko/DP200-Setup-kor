@@ -1,10 +1,10 @@
 # 랩 설정
 
-1. [] @lab.VirtualMachine(Windows10).SelectLink에서 Ctrl + Alt + Delete 시퀀스를 활성화하고 로그인 페이지를 불러오기 위해 @lab.CtrlAltDelete를 클릭하세요.
+1. [] @lab.VirtualMachine(SEA-DEV).SelectLink에서 Ctrl + Alt + Delete 시퀀스를 활성화하고 로그인 페이지를 불러오기 위해 @lab.CtrlAltDelete를 클릭하세요.
 
     >[!정보] 위와 같은 링크는 모두 선택된 머신에 Ctrl+Alt+Delete를 보냅니다. 화면 상단 왼쪽의 **Commands** 메뉴(번개 표시)에서도 수행할 수 있습니다.
 
-1. [] +++@lab.VirtualMachine(Windows10).Username+++와(과) 비밀번호 +++@lab.VirtualMachine(Windows10).Password+++로 로그인하세요.
+1. [] +++@lab.VirtualMachine(SEA-DEV).Username+++와(과) 비밀번호 +++@lab.VirtualMachine(SEA-DEV).Password+++로 로그인하세요.
 
 1. [] @[랩 파일 다운로드][DownloadFromGit]{powershell}
 
