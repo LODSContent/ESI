@@ -1,12 +1,23 @@
 ### ラボのセットアップ
 
-はじめに
+あなたが始める前に
 
 1. [] @lab.VirtualMachine(SEA-DEV).SelectLinkにて、@lab.CtrlAltDeleteをクリックし、Ctrl + Alt + Deleteシーケンスを有効にしてログオンページを表示させます。
 
     >[!KNOWLEDGE] 上記のようなリンクはいずれもCtrl+Alt+Deleteを選択されたマシンに送信します。これは、画面の一番左上の **Commands** メニュー(稲妻)を使って行うこともできます。
 
 1. [] +++@lab.VirtualMachine(SEA-DEV).Username+++として、パスワード+++@lab.VirtualMachine(SEA-DEV).Password+++を使ってサインインします。
+
+## ラボファイル(Lab Files)をダウンロードします
+
+@lab.Activity(DownloadFromGit)
+
+>[!note] これは直近のラボファイルをGitHubからコピーし、ラボ訓練の残りにあたって必要なディレクトリを構成します。プロセスが完了すると、`成功(Success!)`のメッセージが上に表示されます。  
+
+
+「成功！」を受け取ったらメッセージが表示されたら、[次へ]をクリックしてラボに進みます。    
+
+## E5トライアルにサインアップする  
 
 1. [] **Edge** ブラウザを開き、+++https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e5-business-software?activetab=pivot%3aoverviewtab+++にアクセスします。
 
@@ -35,23 +46,3 @@
 	>[!Alert] この情報を必ず控えてください。 
 
 1. [] **Sign up** をクリックします。 
-
-    >[!knowledge] Azureパスを受領済みの場合、この作成されたテナントについてパスを引き換えたいとお考えでしょう。また、受領していない場合(自己試験)、次にアクセスします：+++https://azure.microsoft.com/en-us/free/search/?&ef_id=CjwKCAiA0svwBRBhEiwAHqKjFj9VeHLnkrBeLNevorqgn9l5rYZGOMi17fX7EVZFK0VjYfMU07Xa7BoCEDEQAvD_BwE:G:s&OCID=AID2000128_SEM_EJlPLUFH&MarinID=EJlPLUFH_287547165292_azure%20trial_e_c__44568976057_kwd-296465860499&lnkd=Google_Azure_Brand&gclid=CjwKCAiA0svwBRBhEiwAHqKjFj9VeHLnkrBeLNevorqgn9l5rYZGOMi17fX7EVZFK0VjYfMU07Xa7BoCEDEQAvD_BwE&gclid=CjwKCAiA0svwBRBhEiwAHqKjFj9VeHLnkrBeLNevorqgn9l5rYZGOMi17fX7EVZFK0VjYfMU07Xa7BoCEDEQAvD_BwE+++。続いて、上記の作成されたテナントを使って、**Start Free** をクリックします。  
-
----
-
-PowerShell Modulesインストールに際してエラーが表示されたら、アドミニストレータPowerShellセッションでTLS 1.2を有効にして再試行します：
-
-```PowerShell
-[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
-```
-
----
-
-## ラボファイル(Lab Files)をダウンロードします
-
-@lab.Activity(DownloadFromGit)
-
->[!note] これは直近のラボファイルをGitHubからコピーし、ラボ訓練の残りにあたって必要なディレクトリを構成します。プロセスが完了すると、`成功(Success!)`のメッセージが上に表示されます。
-
-`成功(Success!)`のメッセージを受領したら、**Next** をクリックしてラボに進みます。
