@@ -8,42 +8,19 @@
 
 1. [] 使用用户名 +++@lab.VirtualMachine(SEA-DEV).Username+++ 和密码 +++@lab.VirtualMachine(SEA-DEV).Password+++ 登录。
 
+---  
+
+如果在安装PowerShell模块时出错，请在管理员PowerShell会话中启用TLS 1.2，然后重试： 
+
+```PowerShell
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
+```
+---
+
 ## 下载实验室文件
 
 @lab.Activity(DownloadFromGit)
 
 >[!Note] 这将从 GitHub 复制最新的实验室文件，并根据需要为实验室实操的其余部分配置目录。此过程完成后，上方会显示一条“成功！”的消息。
 
-收到“成功！”的消息后，请单击 **Next**，以进入实验室。   
-
-
-## 报名参加E5试用
-
-
-1. [] 打开 **Edge** 浏览器，然后前往 +++https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e5-business-software?activetab=pivot%3aoverviewtab+++。
-
-1. [] 单击 **Free Trial** 下方的 **Contact sales**。
-
-1. [] 在 **Let's set up your account** 下方，输入一个有效的电子邮件地址。
-
-	>[!alert] 建议您使用通用的电子邮件账户，而非您的个人电子邮箱。您可以创建一个免费的 Live、Outlook 或 Hotmail 账户以在此处使用，请务必记下您的认证信息。 
-
-1. [] 在 **Tell Us About Yourself** 下方，输入以下信息：
-
-	- **First Name**：您所选的名称。
-	- **Last Name**：您所选的名称。 
-	- **Business Phone Number**：有效的电话号码。 
-	- **Company Name**：您所选的名称；例如：**+++Adatum+++**。 
-	- **Your Company Size**：10-24。 
-
-1. [] 在 **Prove You're Not a Robot** 下方，输入一个有效的电话号码，用于验证。  
-
-1. [] 收到来自 Microsoft 的代码后，将其输入提示，然后单击 **Submit**。 
-
-1. [] 在 **Create Your Business Identity** 下方，创建一个有效的业务域。例如，adatum（今日日期）（您的姓名首字母），然后单击 **Next**。 
-
-1. [] 当提示创建用户名和密码时，输入 +++admin+++ 以作为用户名和有效的密码。 
-
-	>[!alert] 务必记录这些信息。 
-
-1. [] 单击 **Sign up**。
+收到“成功！”的消息后，请单击 **Next**，以进入实验室。
