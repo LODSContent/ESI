@@ -6,43 +6,18 @@
 
     >[!KNOWLEDGE] 上記のようなリンクはいずれもCtrl+Alt+Deleteを選択されたマシンに送信します。これは、画面の一番左上の **Commands** メニュー(稲妻)を使って行うこともできます。
 
-1. [] +++@lab.VirtualMachine(SEA-DEV).Username+++として、パスワード+++@lab.VirtualMachine(SEA-DEV).Password+++を使ってサインインします。
+1. [] +++@lab.VirtualMachine(SEA-DEV).Username+++として、パスワード+++@lab.VirtualMachine(SEA-DEV).Password+++を使ってサインインします。  
+
+---  
+
+PowerShellモジュールのインストールでエラーが発生した場合は、管理者のPowerShellセッションでTLS 1.2を有効にして、再試行してください。  
+
+```PowerShell
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
+```
 
 ## ラボファイル(Lab Files)をダウンロードします
 
 @lab.Activity(DownloadFromGit)
 
->[!note] これは直近のラボファイルをGitHubからコピーし、ラボ訓練の残りにあたって必要なディレクトリを構成します。プロセスが完了すると、`成功(Success!)`のメッセージが上に表示されます。  
-
-
-「成功！」を受け取ったらメッセージが表示されたら、[次へ]をクリックしてラボに進みます。    
-
-## E5トライアルにサインアップする  
-
-1. [] **Edge** ブラウザを開き、+++https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e5-business-software?activetab=pivot%3aoverviewtab+++にアクセスします。
-
-1. [] **Free Trial** (以下に表示) **Contact sales** をクリックします。
-
-1. [] **Let's set up your account** にて、有効なEメールアドレスを入力します。
-
-	>[!Alert] 個人用ではなく、一般的なEメールアドレスをお使いください。無償のLive、OutlookあるいはHotmailアカウントを作成して使用しても構いませんが、クレデンシャルを忘れないよう必ず控えてください。 
-
-1. [] **Tell Us About Yourself** にて、次の情報を入力します：
-
-	- **First Name**:選択した名称や名前。
-	- **Last Name**:選択した名称や名前。 
-	- **Business Phone Number**:有効な電話番号。 
-	- **Company Name**:選択した名称や名前。例： **+++Adatum+++**。 
-	- **Your Company Size**:10-24. 
-
-1. [] **Prove You're Not a Robot** にて、認証用に有効な電話番号を入力します。  
-
-1. [] Microsoftより受領したコードを入力し、プロンプトして **Submit** をクリックします。 
-
-1. [] **Create Your Business Identity** にて、ビジネス用の有効なドメインを作成します。例えば、(today'sdate)(yourinitials)で、続いて **Next** をクリックします。 
-
-1. [] ユーザーネームとパスワードを作成するようプロンプトされたら、+++admin+++(ユーザーネーム)および有効なパスワードを入力します。 
-
-	>[!Alert] この情報を必ず控えてください。 
-
-1. [] **Sign up** をクリックします。 
+>[!note] これは直近のラボファイルをGitHubからコピーし、ラボ訓練の残りにあたって必要なディレクトリを構成します。プロセスが完了すると、`成功(Success!)`のメッセージが上に表示されます。 
