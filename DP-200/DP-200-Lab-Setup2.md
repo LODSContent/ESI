@@ -12,6 +12,9 @@
 [DownloadFromGit]:
 
 ```
+While((Get-Partition -DiskNumber 1).DriveLetter -ne "E"){
+Get-Partition -DiskNumber 1 | Set-Partition -NewDriveLetter E
+}
 git clone "https://github.com/MicrosoftLearning/DP-200-Implementing-an-Azure-Data-Solution.git" "E:\Allfiles" 
 ```
 
