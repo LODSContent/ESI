@@ -19,22 +19,19 @@ Azure Passサブスクリプションの作成は2つの手順で行います。
     > [!KNOWLEDGE] すべてのブラウザを閉じ、新規にIn-Privateブラウザセッションを開いてください。その他のログインはアクティブ化手順中に持続し、エラーを発生させる可能性があります。
 
 1. [] 開始ボタンをクリックして開始します。
-	    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/1.jpg)	
-
+	!IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/1.jpg)	
 
 1. [] アカウントのログイン情報を入力して`サインイン(Sign In)`を選択します。
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/2.jpg)
-	a. [] 正確なEメールアドレスがリストされたら、`確認(Confirm)`をクリックします。
-
+1. [] 正確なEメールアドレスがリストされたら、`確認(Confirm)`をクリックします。
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/3.jpg)
-	b. [] プロモコード+++@lab.CloudCredential(PromoCode).PromoCode+++をプロモコード(Promo code)ボックスに入力して`プロモコードを請求する(Claim Promo Code)`をクリックします。
+1. [] プロモコード+++@lab.CloudCredential(PromoCode).PromoCode+++をプロモコード(Promo code)ボックスに入力して`プロモコードを請求する(Claim Promo Code)`をクリックします。
 
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/4.jpg)  
 
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/4.jpg)
-	c. [] 引き換えの処理には最大5分間かかることがあります。
-
+1. [] 引き換えの処理には最大5分間かかることがあります。
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/5.jpg)
 
@@ -46,15 +43,16 @@ Azure Passサブスクリプションの作成は2つの手順で行います。
 1. [] アカウント情報を入力して`次(Next)`をクリックします。
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/6.jpg)
-	a. [] 同意(agreement)のチェックボックスに続いてサインアップ(Sign up)ボタンをクリックします。
 
-	b. [] Itリクエストの処理には最大5分間かかることがあります。
+1. [] 同意(agreement)のチェックボックスに続いてサインアップ(Sign up)ボタンをクリックします。
+
+1. [] Itリクエストの処理には最大5分間かかることがあります。
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/7.jpg)
-	c. [] サブスクリプションの準備が整いました。
+
+1. [] サブスクリプションの準備が整いました。
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/8.jpg)
-
     
 1. [] Azure Pass Creditsのバランスを、@[https://www.microsoftazuresponsorships.com/balance][balance]{powershell}で確認できます。
 
