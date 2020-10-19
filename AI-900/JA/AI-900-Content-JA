@@ -1,0 +1,78 @@
+#ラボ 01
+
+1. に移動 @[https://aka.ms/hci-demo][launchDemo]{powershell}
+
+[launchDemo]:
+
+```
+start-process https://aka.ms/hci-demo
+```
+
+2. 各デッキからカードを選び、シナリオ例を確認します
+
+3. 例が表す責任あるAIの原則を特定する
+
+注：これは英語でのみ利用可能です
+
+===
+
+#ラボ 02
+
+1. 次のMicrosoft Learnモジュールに移動します @[ https://docs.microsoft.com/ja-jp/learn/modules/use-automated-machine-learning/][launchAutoml]{powershell}
+
+[launchAutoml]:
+
+```
+start-process https://docs.microsoft.com/ja-jp/learn/modules/use-automated-machine-learning/
+```
+
+2. はじめにをスキップして、機械学習とは何ですか？単位
+
+3. モジュールの残りの部分の指示に従って、次のことを行います。
+    -Azure MachineLearningワークスペースを作成します
+    -計算ターゲットを作成します
+    -データを調べる
+    -機械学習モデルをトレーニングする
+    -モデルをサービスとしてデプロイする
+===
+
+#ラボ 03
+
+1.  次のMicrosoft Learnモジュールに移動します @[ https://docs.microsoft.com/ja-jp/learn/modules/classify-images-custom-vision/][launchClassification]{powershell}
+
+[launchClassification]:
+
+```
+start-process https://docs.microsoft.com/ja-jp/learn/modules/classify-images-custom-vision/
+```
+
+2.  **演習–画像分類の作成**ソリューションユニットの指示に従ってください
+
+===
+
+#ラボ 04
+
+1.  次のMicrosoft Learnモジュールに移動します @[ https://docs.microsoft.com/ja-jp/learn/modules/create-language-model-with-language-understanding/][launchLuis]{powershell}
+
+[launchLuis]:
+
+```
+start-process https://docs.microsoft.com/ja-jp/learn/modules/create-language-model-with-language-understanding/
+```
+
+2.  **演習–LUISアプリケーションの作成**ユニットの指示に従います。
+前のラボのAzureMachineLearningワークスペースを再利用します
+===
+
+#ラボ 05
+
+1.  次のMicrosoft Learnモジュールに移動します @[ https://docs.microsoft.com/ja-jp/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/][launchBot]{powershell}
+
+[launchBot]:
+
+```
+start-process https://docs.microsoft.com/ja-jp/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/
+```
+
+2.  **演習–ボットの作成**ユニットの指示に従います。
+以前のラボのAzureMachineLearningワークスペースを再利用します
