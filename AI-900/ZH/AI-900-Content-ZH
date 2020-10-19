@@ -1,0 +1,78 @@
+#实验室 01
+ 
+1. 去 @[https://aka.ms/hci-demo][launchDemo]{powershell}
+ 
+[launchDemo]:
+ 
+```
+start-process https://aka.ms/hci-demo
+```
+ 
+2. 从每个套牌中挑选卡片并查看示例方案
+ 
+3. 确定示例所代表的负责任的AI原则
+ 
+请注意，此页面仅提供英语
+ 
+===
+ 
+#实验室 02
+ 
+1. 转到位于的Microsoft Learn模块 @[ https://docs.microsoft.com/zh-cn/learn/modules/use-automated-machine-learning/][launchAutoml]{powershell}
+ 
+[launchAutoml]:
+ 
+```
+start-process https://docs.microsoft.com/zh-cn/learn/modules/use-automated-machine-learning/
+```
+ 
+2. 跳过简介，什么是机器学习？单位
+ 
+3. 按照模块其余部分中的说明进行操作：
+    -创建一个Azure机器学习工作区
+    -创建计算目标
+    -探索数据
+    -训练机器学习模型
+    -将模型部署为服务
+===
+ 
+#实验室 03
+ 
+1.  转到位于的Microsoft Learn模块 @[ https://docs.microsoft.com/zh-cn/learn/modules/classify-images-custom-vision/][launchClassification]{powershell}
+ 
+[launchClassification]:
+ 
+```
+start-process https://docs.microsoft.com/zh-cn/learn/modules/classify-images-custom-vision/
+```
+ 
+2.  请遵循**练习–创建图像分类**解决方案单元中的说明
+ 
+===
+ 
+#实验室 04
+ 
+1.  转到位于的Microsoft Learn模块 @[ https://docs.microsoft.com/zh-cn/learn/modules/create-language-model-with-language-understanding/][launchLuis]{powershell}
+ 
+[launchLuis]:
+ 
+```
+start-process https://docs.microsoft.com/zh-cn/learn/modules/create-language-model-with-language-understanding/
+```
+ 
+2.  请遵循 **练习-创建LUIS应用程序** 单元中的说明
+重用上一个实验中的Azure Machine Learning工作空间
+===
+ 
+#实验室 05
+ 
+1.  转到位于的Microsoft Learn模块 @[ https://docs.microsoft.com/zh-cn/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/][launchBot]{powershell}
+ 
+[launchBot]:
+ 
+```
+start-process https://docs.microsoft.com/zh-cn/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/
+```
+ 
+2.  请遵循 **练习-创建机器人** 单元中的说明。
+重用以前实验室中的Azure Machine Learning工作空间
