@@ -1,4 +1,4 @@
-처음 두 랩 1은 AI-100T01의 기술 요건과 사례 연구입니다.
+처음 두 랩 1은 DP-201T01의 기술 요건과 사례 연구입니다.
 
 ##가상머신
 @lab.CtrlAltDelete를 누르고 +++@lab.VirtualMachine(DP-201Windows10).Username+++와 비밀번호 +++@lab.VirtualMachine(DP-201Windows10).Password+++로 로그인하여 @lab.VirtualMachine(DP-201Windows10).SelectLink에 로그인하세요.
@@ -7,7 +7,13 @@
 
 이 과정의 랩 파일은 디렉터리의 @lab.VirtualMachine(DP-201Windows10).SelectLink에 있습니다.
 
-`E:\LabFiles\`
+1. [] 다음 명령을 클릭하여 GitHub에 호스팅 된 **DP-201 Lab Files**를 **F:\Labfiles** 디렉터리에 자동으로 복제합니다.
+
+@[Clone Github Repository][auto_repo_clone]{PowerShell visible}
+[auto_repo_clone]:
+```
+git clone "https://github.com/MicrosoftLearning/DP-201KO-Designing-an-Azure-Data-Solution" "F:\Labfiles"
+```
 
 바탕화면에도 바로가기가 있습니다. 
 
