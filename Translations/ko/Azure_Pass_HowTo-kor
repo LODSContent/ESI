@@ -66,7 +66,7 @@ Azure Pass 구독 생성은 2단계 과정입니다.
 Start-Process 'www.microsoftazurepass.com'
 ```
 
-[잔액]:
+[balance]:
 ```
 Start-Process 'https://www.microsoftazuresponsorships.com/balance'
 ```
