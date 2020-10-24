@@ -63,12 +63,12 @@
     
 单击下方的 **下一个 >** 以继续。
 
-[azure-通行证]:
+[azure-pass]:
 ```
-开始-流程 'www.microsoftazurepass.com'
+Start-Process 'www.microsoftazurepass.com'
 ```
 
-[余额]:
+[balance]:
 ```
-开始-流程 'https://www.microsoftazuresponsorships.com/balance'
+Start-Process 'https://www.microsoftazuresponsorships.com/balance'
 ```
