@@ -12,7 +12,7 @@ Creating an Azure Pass subscription is a two step process.
 
 ## Step 1: Redeeming a Microsoft Azure Pass Promo Code:
 
-1. Open a browser and navigate to: @[www.microsoftazurepass.com][azure-pass]{powershell}
+1. Open a browser and navigate to: +++https://www.microsoftazurepass.com/+++
 
     > [!KNOWLEDGE] It is recommended you close all browsers and open a new In-Private Browser session. Other log-ins can persist and cause errors during the activation step.
 
@@ -65,13 +65,3 @@ Creating an Azure Pass subscription is a two step process.
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/9.jpg)
     
 Click **Next >** below to continue.
-
-[azure-pass]:
-```
-Start-Process 'www.microsoftazurepass.com'
-```
-
-[balance]:
-```
-Start-Process 'https://www.microsoftazuresponsorships.com/balance'
-```
