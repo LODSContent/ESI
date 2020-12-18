@@ -21,6 +21,18 @@
 
 ### 랩 파일
 
+1. [] @[실습 파일 다운로드][DownloadFromGit]{powershell}
+
+[DownloadFromGit]:
+
+```
+git clone "https://github.com/MicrosoftLearning/AZ-220KO-Microsoft-Azure-IoT-Developer.git" "C:\AZ-220"; Copy-Item "C:\AZ-220\Allfiles\Labs" -recurse -Destination "C:\Users\Student\Desktop"
+```
+
+>[!note] 그러면 Github에서 최신 실습 파일이 복사되고 나머지 실습에 필요한 디렉터리가 구성됩니다. 화면에 출력이 표시되지 않습니다. ** 데스크톱 **에 ** LabFiles ** 폴더가 표시되지 않으면 (다운로드를 클릭하고 약 30 초 동안 기다린 후) ** 데스크톱 **을 마우스 오른쪽 단추로 클릭 한 다음 ** 새로 고침 **을 선택합니다.
+
+
+
 랩을 시작한 직후에 AZ-220 모든 파일이 바탕화면에 다운로드됩니다.
 
 **Next**를 클릭하여 계속합니다.
