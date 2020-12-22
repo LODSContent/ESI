@@ -21,6 +21,16 @@
 
 ### 实验室文件
 
+1. [] @[下载实验文件][DownloadFromGit]{powershell}
+
+[DownloadFromGit]:
+
+```
+git clone "https://github.com/MicrosoftLearning/AZ-220ZH-Microsoft-Azure-IoT-Developer.git" "C:\AZ-220"; Copy-Item "C:\AZ-220\Allfiles\Labs" -recurse -Destination "C:\Users\Student\Desktop"
+```
+>[!note] 这将从Github复制最新的实验文件，并在其余实验练习中根据需要配置目录。您将不会在屏幕上看到任何输出。如果在“桌面”上没有看到“ LabFiles”文件夹（单击“下载”并等待大约30秒后），请右键单击“桌面”，然后选择“刷新”。
+
+
 实验室开始后不久，AZ-220 的所有文件将下载至桌面。
 
 单击 **下一个** 以继续。
