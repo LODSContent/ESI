@@ -1,0 +1,22 @@
+!instructions[](https://raw.githubusercontent.com/LODSContent/All-MOC/master/MOC/MSLearningDisclaimer)
+
+!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/All-MOC/master/MOC/CloudSliceResourceGroup)
+
+## Anmelden
+1. [] Rufen Sie die Anmeldeseite auf, indem Sie unter @lab.VirtualMachine(AZ-900).SelectLink auf @lab.CtrlAltDelete klicken, um die Sequenz Strg + Alt + Entf zu aktivieren.
+
+    >[!KNOWLEDGE] Jegliche Links der obigen Form werden die Sequenz Strg + Alt + Entf an den ausgewählten Computer senden. Dies kann zudem über das **Befehlsmenü** (Blitz-Symbol) am oberen linken Bildschirmrand erreicht werden.
+
+1. [] Melden Sie sich an mit dem Benutzernamen +++@lab.VirtualMachine(AZ-900).Username+++ und dem Passwort +++@lab.VirtualMachine(AZ-900).Password+++.
+
+Klicken Sie auf **Weiter**, um zu den Lab-Schritten fortzufahren.  
+
+====
+
+
+
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/01-Create%20a%20virtual%20machine.md)
+
+### Gratulation!
+        
+Sie haben diese Übung erfolgreich abgeschlossen. Klicken Sie auf **Weiter**, um zum nächsten Modul fortzufahren. 
