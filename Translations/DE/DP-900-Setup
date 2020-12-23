@@ -1,0 +1,29 @@
+### Lab Setup
+1. [] Rufen Sie die Anmeldeseite auf, indem Sie unter @lab.VirtualMachine(SEA-DEV).SelectLink auf @lab.CtrlAltDelete klicken, um die Sequenz Strg + Alt + Entf zu aktivieren.
+
+    >[!KNOWLEDGE] Jegliche Links der obigen Form werden die Sequenz Strg + Alt + Entf an den ausgewählten Computer senden. Dies kann zudem über das **Befehlsmenü** (Blitz-Symbol) am oberen linken Bildschirmrand erreicht werden.
+    
+1. [] Melden Sie sich an als +++@lab.VirtualMachine(SEA-DEV).Username+++ with the password +++@lab.VirtualMachine(SEA-DEV).Password+++.
+
+Klicken Sie unten auf **Weiter** >, um fortzufahren.
+
+===
+
+!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/ESI/master/ESI-Azure-Pass-How-To)
+
+
+===
+
+1. [] Zugriff auf Microsoft Learn: @[https://docs.microsoft.com/en-us/learn/][microsoftlearn]{powershell}
+
+>[!note] Klicken Sie auf **Weiter**, um die Anweisungen zur Anmeldung bei Skillpipe aufzurufen.  Skillpipe kann zudem über folgende externe Adresse aufgerufen werden: [https://skillpipe.com/](https://skillpipe.com/).
+
+===
+
+!instructions[](https://raw.githubusercontent.com/LODSContent/All-MOC/master/Skillpipe-iframe.md)
+[microsoftlearn]:
+
+```
+start-process https://docs.microsoft.com/en-us/learn/
+
+```
