@@ -1,0 +1,29 @@
+### Lab Setup
+1. [] En @lab.VirtualMachine(SEA-DEV).SelectLink haga clic @lab.CtrlAltDelete para activar la secuencia Ctrl+Alt+Supr y abrir la página de inicio de sesión.
+
+    >[!KNOWLEDGE] Cualquier enlace como el de arriba enviará Ctrl+Alt+Supr a la máquina seleccionada. Esto también se puede hacer en el menú **Comandos** (rayo) que aparece en la esquina superior izquierda de la pantalla.
+    
+1. [] Iniciar sesión como +++@lab.VirtualMachine(SEA-DEV).Username+++ with the password +++@lab.VirtualMachine(SEA-DEV).Password+++.
+
+Haga clic en**Siguiente** > para continuar.
+
+===
+
+!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/ESI/master/ESI-Azure-Pass-How-To)
+
+
+===
+
+1. [] Para acceder a Microsoft learn: @[https://docs.microsoft.com/en-us/learn/][microsoftlearn]{powershell}
+
+>[!note] Haga clic en**Siguiente** para pasar a las instrucciones de inicio de sesión de Skillpipe.  O también puede acceder a Skillpipe de forma externa aquí: [https://skillpipe.com/](https://skillpipe.com/).
+
+===
+
+!instructions[](https://raw.githubusercontent.com/LODSContent/All-MOC/master/Skillpipe-iframe.md)
+[microsoftlearn]:
+
+```
+start-process https://docs.microsoft.com/en-us/learn/
+
+```
