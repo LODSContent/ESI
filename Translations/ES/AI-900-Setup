@@ -1,0 +1,90 @@
+### Lab Setup
+ 1. En @lab.VirtualMachine(SEA-DEV).SelectLink haga clic @lab.CtrlAltDelete para activar la secuencia Ctrl+Alt+Supr y abrir la página de inicio de sesión.
+
+>[!KNOWLEDGE] Cualquier enlace como el de arriba enviará Ctrl+Alt+Supr a la máquina seleccionada. Esto también se puede hacer en el menú **Comandos** (rayo) que aparece en la esquina superior izquierda de la pantalla.
+
+2. Iniciar sesión como +++@lab.VirtualMachine(SEA-DEV).Username+++  con la contraseña +++@lab.VirtualMachine(SEA-DEV).Password+++.
+
+!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/ESI/master/ESI-Azure-Pass-How-To)
+
+===
+
+#Lab 01
+
+1. Ir a @[https://aka.ms/hci-demo][launchDemo]{powershell}
+
+[launchDemo]:
+
+```
+start-process https://aka.ms/hci-demo
+```
+
+2. Elija cartas de cada mazo y analice las situaciones de ejemplo
+
+3. Identifique el o los principios de IA responsable que representan los ejemplos
+
+===
+
+#Lab 02
+
+1. Ir al módulo de Aprendizaje de Microsoft en @[https://aka.ms/no-code-automl][launchAutoml]{powershell}
+
+[launchAutoml]:
+
+```
+start-process https://aka.ms/no-code-automl
+```
+
+2. Omitir la introducción y ¿Qué es el aprendizaje automático? unidades
+
+3. Siga las instrucciones en el resto del módulo para:
+    - Crear un espacio de trabajo en Azure Machine Learning
+    - Crear objetivos informáticos
+    - Explorar datos
+    - Entrenar un modelo de aprendizaje automático
+    - Adoptar un modelo como servicio
+
+===
+
+#Lab 03
+
+1.  Ir al módulo de Aprendizaje de Microsoft en @[https://aka.ms/learn-image-classification][launchClassification]{powershell}
+
+[launchClassification]:
+
+```
+start-process https://aka.ms/learn-image-classification
+```
+
+2.   Siga las instrucciones de la unidad que presenta las soluciones**Ejercicio: crear una clasificación de imágenes**
+
+===
+
+#Lab 04
+
+1.  Ir al módulo de Aprendizaje de Microsoft en @[https://aka.ms/learn-luis][launchLuis]{powershell}
+
+[launchLuis]:
+
+```
+start-process https://aka.ms/learn-luis
+```
+
+2.   Siga las instrucciones de la unidad **Ejercicio: crear una aplicación LUIS**
+Reutilizar el espacio de trabajo en Azure Machine Learning del laboratorio anterior
+
+===
+
+#Lab 05
+
+1.  Ir al módulo de Aprendizaje de Microsoft en @[https://aka.ms/learn-qa-bot][launchBot]{powershell}
+
+[launchBot]:
+
+```
+start-process https://aka.ms/learn-qa-bot
+```
+
+2.  Siga las instrucciones de la unidad **Ejercicio: crear un bot**
+Reutilizar el espacio de trabajo en Azure Machine Learning de los laboratorios anteriores
+
