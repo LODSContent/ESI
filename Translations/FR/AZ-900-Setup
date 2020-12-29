@@ -1,0 +1,22 @@
+!instructions[](https://raw.githubusercontent.com/LODSContent/All-MOC/master/MOC/MSLearningDisclaimer)
+
+!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/All-MOC/master/MOC/CloudSliceResourceGroup)
+
+## Connexion
+1. [] À partir de @lab.VirtualMachine(AZ-900).SelectLink, cliquez sur @lab.CtrlAltDelete pour activer la séquence Ctrl + Alt + Suppr et ouvrir la page de connexion.
+
+    >[!KNOWLEDGE] Les liens comme celui ci-dessus enverront la séquence Ctrl+Alt+Suppr à la machine sélectionnée. Cette action peut aussi être effectuée depuis le menu **Commandes** (icône en forme d''éclair) dans le coin supérieur gauche de l'écran.
+
+1. [] Connectez-vous avec votre identifiant +++@lab.VirtualMachine(AZ-900).Username+++ et votre mot de passe +++@lab.VirtualMachine(AZ-900).Password+++.
+
+Cliquez sur **Suivant** pour poursuivre vers les étapes du laboratoire.  
+
+====
+
+
+
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/01-Create%20a%20virtual%20machine.md)
+
+### Félicitations !
+        
+Vous avez réussi cet exercice. Cliquez sur **Suivant** pour passer au module suivant. 
