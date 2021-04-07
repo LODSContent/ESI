@@ -1,0 +1,10 @@
+# 下载和准备实验室文件
+
+1. [] @[下载实验室文件至 C：驱动][DownloadFromGit]{powershell}
+
+    >这将从 Github 复制最新的实验室文件。屏幕上不会显示任何输出。
+
+[DownloadFromGit]:
+```
+git clone "https://github.com/MicrosoftLearning/DP-100ZH-Designing-and-Implementing-a-Data-Science-Solution-on-Azure" "C:\LabFiles"
+```
