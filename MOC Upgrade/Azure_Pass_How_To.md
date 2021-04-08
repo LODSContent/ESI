@@ -1,6 +1,6 @@
 # Creating a Microsoft Azure Pass Subscription
 
-> [!NOTE] You will need to redeem your Azure Pass once per Course. If you have already created an Azure Pass subscription, you can skip this section by clicking **Next >** below to continue.
+> [!NOTE] You will need to redeem your Azure Pass once per Course. If you have already created an Azure Pass subscription, you can skip this section.
 
 > [!Knowledge] Links in the instructions will attempt to open in your local browser, not in-lab. It is recommended you type any links directly into the browser in-lab.
 
