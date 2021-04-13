@@ -8,4 +8,4 @@
 
 1. [] +++@lab.VirtualMachine(SEA-DEV).Username+++として、パスワード +++@lab.VirtualMachine(SEA-DEV).Password+++を使ってサインインします。
 
-!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/ESI/master/Translations/JA/Azure%20Pass%20How%20To)
+!instructions[](https://raw.githubusercontent.com/LODSContent/ESI/master/Translations/JA/Azure_Pass_HowTo-jpn)
