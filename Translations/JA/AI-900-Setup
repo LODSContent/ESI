@@ -7,3 +7,5 @@
     >[!KNOWLEDGE] 上記のようなリンクはいずれもCtrl+Alt+Deleteを選択されたマシンに送信します。これは、画面の一番左上の **Commands** メニュー(稲妻)を使って行うこともできます。
 
 1. [] +++@lab.VirtualMachine(SEA-DEV).Username+++として、パスワード +++@lab.VirtualMachine(SEA-DEV).Password+++を使ってサインインします。
+
+!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/ESI/master/Translations/JA/Azure%20Pass%20How%20To)
