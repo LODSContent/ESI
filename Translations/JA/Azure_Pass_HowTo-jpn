@@ -14,7 +14,7 @@ Azure Passサブスクリプションの作成は2つの手順で行います。
 
 ## 手順1：Microsoft Azure Passプロモコード(Promo Code)の引き換え：
 
-1. [] ブラウザを開いて次にナビゲートします：@[www.microsoftazurepass.com][azure-pass]{powershell}
+1. [] ブラウザを開いて次にナビゲートします： +++https://www.microsoftazurepass.com/+++
 
     > [!KNOWLEDGE] すべてのブラウザを閉じ、新規にIn-Privateブラウザセッションを開いてください。その他のログインはアクティブ化手順中に持続し、エラーを発生させる可能性があります。
 
