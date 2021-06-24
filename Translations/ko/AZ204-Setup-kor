@@ -2,11 +2,11 @@
 
 ### 랩 가상머신에 가입하세요
 
-@lab.CtrlAltDelete를 누르고 다음 자격 증명을 입력하여 @lab.VirtualMachine(AZ-204T00A-SEA-DEV).SelectLink에 로그인.
+@lab.CtrlAltDelete를 누르고 다음 자격 증명을 입력하여 @lab.VirtualMachine(SEA-DEV).SelectLink에 로그인.
     
-**Username**: +++@lab.VirtualMachine(AZ-204T00A-SEA-DEV).Username+++
+**Username**: +++@lab.VirtualMachine(SEA-DEV).Username+++
     
-**Password**: +++@lab.VirtualMachine(AZ-204T00A-SEA-DEV).Password+++
+**Password**: +++@lab.VirtualMachine(SEA-DEV).Password+++
 
 ---
 
