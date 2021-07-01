@@ -1,8 +1,8 @@
 # Creating a Microsoft Azure Pass Subscription
 
-> [!NOTE] You will need to redeem your Azure Pass once per Course. If you have already created an Azure Pass subscription, you can skip this section by clicking **Next >** below to continue.
+> **NOTE:** You will need to redeem your Azure Pass once per Course. If you have already created an Azure Pass subscription, you can skip this section by clicking **Next >** below to continue.
 
-> [!Knowledge] Links in the instructions that do not have a lightning bolt icon ( ![Lightning Bolt](https://raw.githubusercontent.com/LODSContent/ESI/master/Images/BoltIcon.png) ) will attempt to open in your local browser, not in-lab. It is recommended you type any links directly into the browser in-lab.
+> **NOTE:** Links in the instructions that do not have a lightning bolt icon ( ![Lightning Bolt](https://raw.githubusercontent.com/LODSContent/ESI/master/Images/BoltIcon.png) ) will attempt to open in your local browser, not in-lab. It is recommended you type any links directly into the browser in-lab.
 
 Creating an Azure Pass subscription is a two step process.
 
@@ -14,7 +14,7 @@ Creating an Azure Pass subscription is a two step process.
 
 1. Open a browser and navigate to: https://www.microsoftazurepass.com/
 
-    > [!KNOWLEDGE] It is recommended you close all browsers and open a new In-Private Browser session. Other log-ins can persist and cause errors during the activation step.
+    > **NOTE:** It is recommended you close all browsers and open a new In-Private Browser session. Other log-ins can persist and cause errors during the activation step.
 
 1. Click the start button to get started.
 	
@@ -63,5 +63,3 @@ Creating an Azure Pass subscription is a two step process.
 1. You can check the balance of your Azure Pass Credits on +++https://www.microsoftazuresponsorships.com/balance+++
 
     ![](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/9.jpg)
-    
-Click **Next >** below to continue.
