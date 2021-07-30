@@ -1,6 +1,6 @@
 # Creating a Microsoft Azure Pass Subscription
 
-> [!alert] Please note that **Azure Passes** are designed to be used for the duration of the class and not for post class training. Please create and use a new Microsoft Live ID email account for your redemption. Do not redeem against your existing work/school email. For post class training, please redeem an Azure Trial here: https://azure.microsoft.com/en-us/free/. If your Azure Subscription is disabled during the class duration, please reach out to Support.
+> [!alert] Please note that **Azure Passes** are designed to be used for the duration of the class and not for post class training. Please create and use a new Microsoft Live ID email account for your redemption. Do not redeem against your existing work/school email. For post class training, please redeem an Azure Trial here: [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-us/free/). If your Azure Subscription is disabled during the class duration, please reach out to Support.
 
 > **NOTE:** You will need to redeem your Azure Pass once per Course. If you have already created an Azure Pass subscription, you can skip this section by clicking **Next >** below to continue.
 
