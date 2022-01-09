@@ -26,7 +26,7 @@
 [DownloadFromGit]:
 
 ```
-git clone "https://github.com/MicrosoftLearning/AZ-220JA-Microsoft-Azure-IoT-Developer.git" "C:\AZ-220"; Copy-Item "C:\AZ-220\Allfiles\Labs" -recurse -Destination "C:\Users\Student\Desktop"
+git clone "https://github.com/MicrosoftLearning/AZ-220-Microsoft-Azure-IoT-Developer.ja-jp.git" "C:\AZ-220"; Copy-Item "C:\AZ-220\Allfiles\Labs" -recurse -Destination "C:\Users\Student\Desktop"
 ```
 
 >[!note] これにより、Githubから最新のラボファイルがコピーされ、残りのラボ演習で必要に応じてディレクトリが構成されます。画面に出力は表示されません。 **デスクトップ**に** LabFiles **フォルダーが表示されない場合（[ダウンロード]をクリックして約30秒待った後）、[**デスクトップ**]を右クリックして[**更新**]を選択します。
