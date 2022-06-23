@@ -22,6 +22,6 @@
     |스토리지 계정(새로 만들기)|+++cloudshell@lab.LabInstance.Id+++| 
     |파일 공유(새로 만들기)|+++shellstorage+++| 
 
-  >[!KNOWLEDGE] "테넌트 사용자 초과 할당량" 오류가 발생하면 **Cloud Shell 지역**을 다른 지역으로 변경합니다. 
+    >[!KNOWLEDGE] "테넌트 사용자 초과 할당량" 오류가 발생하면 **Cloud Shell 지역**을 다른 지역으로 변경합니다. 
 
 1. Cloud Shell이 초기화되고 텍스트 프롬프트가 표시되면 셸을 종료합니다. 
