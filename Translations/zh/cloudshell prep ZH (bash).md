@@ -1,5 +1,5 @@
 ## 准备 Cloud Shell 以供以后使用
-1. 使用以下凭据登录 Azure 门户 (+++https://portal.azure.com+++)：
+1. 使用以下凭据登录 Azure 门户 (+++https://portal.azure.com/?l=zh-hans.zh-cn+++)：
 
     |||
     |--|--|
@@ -16,8 +16,7 @@
 
     |||
     |--|--|
-    |资源组| 使用现有资源组： **cloud-shell-storage-eastus**|
-    |地区| **美国东部** |
+    |资源组| 非 NetworkWatcherRG 的资源组|
     |存储帐户(新建)|+++cloudshell@lab.LabInstance.Id+++|
     |文件共享(新建)|+++shellstorage+++|
     
