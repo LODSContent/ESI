@@ -1,5 +1,5 @@
 ## 後で使用するため Cloud Shell を準備する
-1. 以下の資格情報を使用して Azure Portal +++https://portal.azure.com+++ にログインします。
+1. 以下の資格情報を使用して Azure Portal +++https://portal.azure.com/?l=ja.ja-jp+++ にログインします。
 
     |||
     |--|--|
@@ -16,8 +16,7 @@
 
     |||
     |--|--|
-    |リソース グループ| 次の既存のリソース グループを使用する: **cloud-shell-storage-eastus**|
-    |リージョン| **米国東部** |
+    |リソース グループ| NetworkWatcherRG ではないリソース グループ|
     |ストレージ アカウント (新規作成)|+++cloudshell@lab.LabInstance.Id+++|
     |ファイル共有 (新規作成)|+++shellstorage+++|
     
