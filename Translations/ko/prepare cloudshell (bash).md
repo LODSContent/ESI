@@ -1,6 +1,6 @@
 ## 나중에 사용할 수 있도록 Cloud Shell 준비 
 
-1. 아래 자격 증명을 사용하여 Azure Portal(+++https://portal.azure.com+++)에 로그인합니다. 
+1. 아래 자격 증명을 사용하여 Azure Portal(+++https://portal.azure.com/?l=ko.ko-kr+++) 에 로그인합니다. 
 
     ||| 
     |--|--| 
@@ -17,8 +17,7 @@
 
     ||| 
     |--|--| 
-    |리소스 그룹| 기존 리소스 그룹 사용: **cloud-shell-storage-eastus**| 
-    |지역| **미국 동부** | 
+    |리소스 그룹| NetworkWatcherRG가 아닌 리소스 그룹| 
     |스토리지 계정(새로 만들기)|+++cloudshell@lab.LabInstance.Id+++| 
     |파일 공유(새로 만들기)|+++shellstorage+++|   
 
