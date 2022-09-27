@@ -1,0 +1,4 @@
+>[!hint] Ce labo prend en charge la fonctionnalité **Redirect Clipboard** en plus de +++TypeText+++.
+> Vous pouvez utiliser **Redirect Clipboard** pour saisir rapidement des blocs de code et d’autres chaînes de caractères à partir des instructions et ailleurs dans la machine virtuelle en utilisant le copier-coller standard du presse-papiers de votre machine locale directement dans la machine virtuelle.  Vous devrez peut-être cliquer sur **Allow** dans votre navigateur pour autoriser l’accès à votre presse-papiers local.
+
+> Notez qu’en raison d’un problème dans **Azure Cloudshell**, utilisez votre souris : **right-click + paste** au lieu de **CTRL+V** lorsque vous êtes dans la machine virtuelle.  Le texte peut être copié à partir de la machine virtuelle et également à partir de votre machine locale avec cette méthode.
