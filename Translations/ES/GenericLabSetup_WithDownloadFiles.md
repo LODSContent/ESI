@@ -14,6 +14,6 @@
 
 @lab.Activity(DownloadFromGit)
 
->[!note] Aparecerá el mensaje ""Correcto"" arriba una vez completado el proceso.
+>[!note] Aparecerá el mensaje **Correcto** arriba una vez completado el proceso.
 
-Cuando haya recibido el mensaje ""Correcto"", haga clic en **Siguiente** para ir al laboratorio.
+Cuando haya recibido el mensaje **Correcto**, haga clic en **Siguiente** para ir al laboratorio.
