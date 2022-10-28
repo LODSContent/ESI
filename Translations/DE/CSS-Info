@@ -1,0 +1,5 @@
+> [!knowledge] An Azure subscription has been provided for you to use in this lab. Sign in with the following credentials:
+> - Username: +++@lab.CloudPortalCredential(LabUser).Username+++
+> - Password: +++@lab.CloudPortalCredential(LabUser).Password+++
+>
+> This information can also be found on the **Resources** tab of the lab user interface.
